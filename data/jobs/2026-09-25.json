@@ -1,0 +1,323 @@
+[
+ {
+  "uid": "adzuna:5897259869",
+  "source": "Adzuna",
+  "company": "Cyberidentitysolutions",
+  "title": "Software Engineer Retail POS Systems",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5897259869?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-09-24T23:46:16Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1200000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 12.000000000000002
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Develop, customize, and maintain the point-of-sale codebase for retail POS systems.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5897308733",
+  "source": "Adzuna",
+  "company": "Vrinda International",
+  "title": "RPA UI PYTHON ENGINEER",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5897308733?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-09-25T02:16:11Z",
+  "salary": {
+   "min": 1200000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "RPA",
+    "UI automation",
+    "Automation frameworks"
+   ],
+   "summary": "Design, develop, and maintain robust RPA UI automation solutions.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5895535206",
+  "source": "Adzuna",
+  "company": "Acme Services Private Limited",
+  "title": "Java Backend Developer",
+  "location": "Bazargate, Mumbai",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5895535206?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-09-23T23:46:53Z",
+  "salary": {
+   "min": 1000000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "REST APIs",
+    "Database access",
+    "Unit tests",
+    "Integration tests",
+    "Agile"
+   ],
+   "summary": "Develop and maintain Java and Spring Boot services.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5893825760",
+  "source": "Adzuna",
+  "company": "Improving",
+  "title": "Golang Developer",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5893825760?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-09-22T16:13:40Z",
+  "salary": {
+   "min": 1000000,
+   "max": 3500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 35
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Go",
+    "SaaS",
+    "Storage",
+    "Open source",
+    "Distributed systems"
+   ],
+   "summary": "Design and build a data protection SaaS platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:stripe:8175647",
+  "source": "Greenhouse",
+  "company": "Stripe",
+  "title": "Integration Engineer (Metronome) ",
+  "location": "Remote",
+  "isRemote": true,
+  "country": null,
+  "url": "https://stripe.com/jobs/search?gh_jid=8175647",
+  "postedAt": "2026-09-22T17:16:20-04:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "API",
+    "CRM",
+    "ERP",
+    "Billing",
+    "Payment",
+    "Tax",
+    "Analytics",
+    "Integration",
+    "Data migration"
+   ],
+   "summary": "Helps customers implement and configure Stripe’s Metronome usage‑based billing platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:rubrik:8220011",
+  "source": "Greenhouse",
+  "company": "Rubrik Job Board",
+  "title": "Security Engineer - Identity and Access ",
+  "location": "Bangalore, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://www.rubrik.com/company/careers/departments/job.8220011?gh_jid=8220011",
+  "postedAt": "2026-09-24T01:13:54-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "no",
+   "skills": [
+    "IAM",
+    "Identity Governance",
+    "PAM",
+    "Policy-as-code",
+    "CI/CD",
+    "IaC",
+    "Cloud",
+    "SaaS",
+    "GDPR",
+    "SOX"
+   ],
+   "summary": "Designs and builds identity and access management solutions across Rubrik’s application portfolio.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:posthog:20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8",
+  "source": "Ashby",
+  "company": "Posthog",
+  "title": "Product Engineer -- current",
+  "location": "Remote",
+  "isRemote": true,
+  "country": "USA",
+  "url": "https://jobs.ashbyhq.com/posthog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8",
+  "applyUrl": "https://jobs.ashbyhq.com/posthog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8/application",
+  "postedAt": "2026-09-24T16:56:29.377+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "SQL"
+   ],
+   "summary": "Product engineer working on self-driving product platform",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000151570361",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Software Tool developer_ECT",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151570361",
+  "postedAt": "2026-09-24T09:34:55.523Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "VS Code extension",
+    "DSL",
+    "Langium",
+    "LSP",
+    "Python"
+   ],
+   "summary": "Develop developer productivity tools and VS Code extensions",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000151301815",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "AI and DevOps Engineer",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151301815",
+  "postedAt": "2026-09-23T06:48:11.777Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Java",
+    "NLP",
+    "RegEx",
+    "SpaCy",
+    "NLTK",
+    "DevOps"
+   ],
+   "summary": "Build AI and DevOps solutions leveraging Python/Java and NLP tools.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ }
+]

@@ -1,0 +1,66 @@
+name: Job Radar
+
+on:
+  schedule:
+    # 03:45 UTC = 09:15 IST. GitHub may start scheduled runs a few minutes late,
+    # so the mail usually arrives between 9:15 and 10:00 AM.
+    - cron: "45 3 * * *"
+  workflow_dispatch:        # "Run workflow" button, for testing
+    inputs:
+      weekly:
+        description: "Also send the weekly report now"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write           # lets the job commit data/seen.json and data/jobs/
+
+concurrency: job-radar      # never run two at once (would double-send)
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+      ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+
+      - name: Refresh discovered boards (1st of every month)
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          if [ "$(TZ=Asia/Kolkata date +%d)" = "01" ]; then
+            node scripts/discover-boards.mjs
+          else
+            echo "Not the 1st; keeping current discovered boards."
+          fi
+
+      - name: Daily digest
+        run: node src/daily.mjs
+
+      - name: Weekly report (Sundays, or when requested)
+        if: ${{ inputs.weekly || github.event_name == 'schedule' }}
+        run: |
+          if [ "${{ inputs.weekly }}" = "true" ] || [ "$(TZ=Asia/Kolkata date +%u)" = "7" ]; then
+            node src/weekly.mjs
+          else
+            echo "Not Sunday in IST; skipping weekly report."
+          fi
+
+      - name: Save what was sent (for de-duplication and the weekly report)
+        if: always()
+        run: |
+          git config user.name "job-radar"
+          git config user.email "job-radar@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "data: $(TZ=Asia/Kolkata date +%F)"
+          git push
