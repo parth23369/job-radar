@@ -72,6 +72,8 @@ async function callLlm(cfg, batch) {
     });
     if (res.status === 429) {
       const wait = Number(res.headers.get("retry-after")) * 1000 || 15000 * (attempt + 1);
+      // A long wait means the DAILY free quota is used up, not the per-minute one. Don't sit there until the job times out.
+      if (wait > 90_000) throw Object.assign(new Error(`daily LLM quota reached (retry in ${Math.round(wait / 60000)} min)`), { quota: true });
       log(`  rate-limited, waiting ${Math.round(wait / 1000)}s`);
       await sleep(wait);
       continue;
@@ -87,11 +89,14 @@ async function callLlm(cfg, batch) {
 }
 
 export async function enrichJobs(jobs, cfg) {
-  if (!process.env.GROQ_API_KEY) { log("⚠ Enrichment skipped: GROQ_API_KEY not set"); return; }
+  if (!process.env.GROQ_API_KEY) { log("⚠ Enrichment skipped: GROQ_API_KEY not set"); return { enriched: 0, total: jobs.length, stopped: "no key" }; }
   const todo = jobs.slice(0, cfg.maxJobsPerDay);
   if (jobs.length > todo.length) log(`Enriching first ${todo.length} of ${jobs.length} jobs (maxJobsPerDay)`);
+  const deadline = Date.now() + (cfg.maxMinutes ?? 12) * 60_000;
+  let stopped = null;
 
   for (let i = 0; i < todo.length; i += cfg.batchSize) {
+    if (Date.now() > deadline) { stopped = `time budget of ${cfg.maxMinutes ?? 12} min used`; break; }
     const batch = todo.slice(i, i + cfg.batchSize);
     try {
       const results = await callLlm(cfg, batch);
@@ -102,7 +107,11 @@ export async function enrichJobs(jobs, cfg) {
       log(`Enriched ${Math.min(i + cfg.batchSize, todo.length)}/${todo.length}`);
     } catch (err) {
       log(`⚠ Enrichment batch ${i / cfg.batchSize + 1} failed: ${err.message}`);
+      if (err.quota) { stopped = err.message; break; }
     }
     if (i + cfg.batchSize < todo.length) await sleep(cfg.pauseMs);
   }
+  const enriched = jobs.filter((j) => j.enriched).length;
+  if (stopped) log(`⚠ Enrichment stopped early (${stopped}); remaining jobs are mailed without skills`);
+  return { enriched, total: jobs.length, stopped };
 }

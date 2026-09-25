@@ -92,7 +92,8 @@ export default {
     batchSize: 5,                  // jobs per request
     maxJobsPerDay: 150,            // jobs beyond this are listed without skill extraction
     descriptionChars: 2500,        // per job, keeps requests inside free-tier token limits
-    pauseMs: 4000                  // gap between requests (free tier is rate-limited per minute)
+    pauseMs: 4000,                 // gap between requests (free tier is rate-limited per minute)
+    maxMinutes: 12                 // stop reading JDs after this long; the mail still goes out on time
   },
 
   // ── Your skills (for the weekly "what to learn" section) ───
