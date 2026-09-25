@@ -103,7 +103,7 @@ export default {
 
   // ── Your skills (for the weekly "what to learn" section) ───
   // Pulled from your live portfolio so it stays in sync. Falls back to the list below.
-  portfolioDataUrl: "https://parth-sharma.vercel.app/js/data.js",
+  portfolioDataUrl: "https://parth-sharma-three.vercel.app/js/data.js",
   fallbackSkills: [
     "C", "C++", "Python", "Java", "JavaScript", "SQL", "Linux", "Linux kernel", "Device drivers",
     "POSIX", "Pthreads", "gdb", "ARM", "QEMU", "FastAPI", "Flask", "PostgreSQL", "OAuth 2.0",
