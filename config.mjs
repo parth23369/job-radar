@@ -52,7 +52,7 @@ export default {
       "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
       "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json"
     ],
-    minEligibleJobs: 2   // keep a board only if it has at least this many India/remote, non-senior tech roles open
+    minEligibleJobs: 3   // keep a board only if it has at least this many India/remote, non-senior SOFTWARE roles open
   },
 
   // ── Filters ────────────────────────────────────────────────
@@ -75,7 +75,12 @@ export default {
       "architect", "vp", "vice president", "distinguished", "fellow", "chief", "iii", "iv",
       "sales", "solutions engineer", "support", "escalation", "customer success", "recruiter",
       "recruiting", "talent", "marketing", "growth marketing", "communications", "audiovisual",
-      "account executive", "legal", "finance", "hr"
+      "account executive", "legal", "finance", "hr", "strategist", "pre-sales", "presales",
+      // non-software engineering and non-tech roles that contain "engineer", "data" or "research"
+      "civil", "structural", "structures", "bridge", "bridges", "building", "buildings", "construction",
+      "mechanical", "electrical", "hvac", "piping", "maintenance", "loco", "locomotive", "field service",
+      "site engineer", "service engineer", "seals", "manufacturing", "production engineer", "quality inspector",
+      "data entry", "apprentice", "project controls", "research analyst", "business systems analyst", "sap"
     ],
     // Company names containing any of these are skipped (staffing agencies that repost the same roles).
     excludeCompanies: ["Trigent Software", "Staffnixcom", "Career Guidance Technologies", "Happiest Resume"]
@@ -91,7 +96,7 @@ export default {
     model: "openai/gpt-oss-20b",   // small + fast: plenty for extracting skills from a JD
     batchSize: 5,                  // jobs per request
     maxJobsPerDay: 150,            // jobs beyond this are listed without skill extraction
-    descriptionChars: 2500,        // per job, keeps requests inside free-tier token limits
+    descriptionChars: 1800,        // per job; smaller = more jobs read before the free daily quota runs out
     pauseMs: 4000,                 // gap between requests (free tier is rate-limited per minute)
     maxMinutes: 12                 // stop reading JDs after this long; the mail still goes out on time
   },

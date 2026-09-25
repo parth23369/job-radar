@@ -8,7 +8,7 @@ import { fetchGreenhouse } from "./sources/greenhouse.mjs";
 import { fetchLever } from "./sources/lever.mjs";
 import { fetchAshby } from "./sources/ashby.mjs";
 import { fetchSmartRecruiters, fillSmartRecruitersDetails } from "./sources/smartrecruiters.mjs";
-import { preFilter, postFilter } from "./filters.mjs";
+import { preFilter, postFilter, SOFTWARE_TITLE } from "./filters.mjs";
 import { enrichJobs } from "./enrich.mjs";
 import { canonical } from "./skills.mjs";
 import { loadSeen, saveSeen, saveDay } from "./store.mjs";
@@ -36,6 +36,10 @@ log(`Fetched ${all.length} postings`, bySource);
 const seen = loadSeen();
 const pre = preFilter(all, config.filters, config.toInr, seen);
 log(`After cheap filters: ${pre.kept.length}`, pre.dropped);
+
+// Clear software titles in India first, then remote, so the LLM quota is spent where it matters most.
+const rank = (j) => (SOFTWARE_TITLE.test(j.title) ? 0 : 2) + (j.where === "india" ? 0 : 1);
+pre.kept.sort((a, b) => rank(a) - rank(b));
 
 await fillSmartRecruitersDetails(pre.kept);
 await enrichJobs(pre.kept, config.llm);

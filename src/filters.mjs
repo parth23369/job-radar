@@ -2,7 +2,12 @@ import { daysAgo } from "./util.mjs";
 
 const INDIA = /\b(india|bengaluru|bangalore|hyderabad|pune|mumbai|delhi|new delhi|gurgaon|gurugram|noida|chennai|kolkata|ahmedabad|kochi|jaipur|indore|chandigarh|coimbatore|thiruvananthapuram|trivandrum|mysuru|mysore)\b/i;
 const FOREIGN_ONLY = /\b(us|usa|u\.s\.|united states|canada|uk|united kingdom|europe|emea|eu|amer|americas|north america|latam|germany|france|netherlands|ireland|spain|poland|brazil|mexico|australia|japan|singapore|[a-z]{2,} time ?zones?|est|pst|cet)\b/i;
-const OPEN_WIDE = /\b(anywhere|worldwide|global|apac|asia)\b/i;
+const OPEN_WIDE = /\b(anywhere(?! in the u)|worldwide|global|apac|asia)\b/i;
+const US_REGIONS = /\b(northeast|southeast|midwest|southwest|northwest|west coast|east coast|pacific time|eastern time|central time|u\.s\.?|us-based|us only|anywhere in the u\.?s)\b/i;
+
+// Titles that are clearly software/data/ML work. Jobs the LLM couldn't read must match this to be mailed,
+// and discovery only counts these when deciding whether a board is worth keeping.
+export const SOFTWARE_TITLE = /(?<![a-z])(software|developer|sde|swe|programmer|backend|back-end|frontend|front-end|full[ -]?stack|web|mobile|android|ios|data engineer|data scientist|data analyst|analytics engineer|machine learning|ml|ai|llm|nlp|computer vision|devops|sre|site reliability|platform engineer|cloud engineer|infrastructure engineer|security engineer|application security|embedded|firmware|kernel|systems software|qa automation|sdet|test automation|python|java|golang|c\+\+|\.net|react|node|forward deployed|member of technical staff|research engineer|quant)(?![a-z])/i;
 const SENIOR_LEVEL_NUMBER = /\b(engineer|developer|scientist|swe|sde)\s*[-,]?\s*(3|4|5|iii|iv|v)\b/i;
 const PER_YEAR = { year: 1, month: 12, week: 52, day: 260, hour: 2080 };
 
@@ -26,7 +31,9 @@ export function locationClass(job) {
   const text = `${job.location} ${job.country || ""}`;
   if (job.country === "IN" || INDIA.test(text)) return "india";
   if (job.isRemote) {
-    if (FOREIGN_ONLY.test(job.location) && !OPEN_WIDE.test(job.location)) return null; // e.g. "Remote - US"
+    const where = `${job.location} ${job.title}`;          // restrictions often hide in the title ("Data Engineer - US Remote")
+    if (/\bhybrid\b/i.test(job.location)) return null;     // hybrid outside India means on-site part of the week
+    if ((FOREIGN_ONLY.test(where) || US_REGIONS.test(where)) && !OPEN_WIDE.test(where)) return null;
     return "remote";
   }
   return null;
@@ -76,6 +83,7 @@ export function postFilter(jobs, f) {
     const e = job.enriched;
 
     if (e?.tech_role === false) { dropped.notTech++; continue; }
+    if (!e && !SOFTWARE_TITLE.test(job.title)) { dropped.notTech++; continue; }  // LLM didn't read it: only keep clear software titles
     if (e && (e.level === "senior" || (e.yoe_min != null && e.yoe_min > f.maxYearsExperience))) { dropped.senior++; continue; }
 
     // Remote roles: keep only if the LLM confirms India is eligible, or the location is plain "Remote"/"Anywhere".

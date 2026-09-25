@@ -5,7 +5,7 @@
 // 1. Downloads the public job lists in config.discovery.lists.
 // 2. Pulls the board name out of every Greenhouse / Lever / Ashby / SmartRecruiters link.
 // 3. Checks each board's live jobs and counts roles that pass your filters
-//    (tech, not senior, in India or plain remote).
+//    (software title, not senior, in India or plain remote).
 // 4. Saves boards with at least `minEligibleJobs` such roles to data/discovered-boards.json.
 //    The daily run picks that file up automatically, alongside the boards in config.mjs.
 import fs from "node:fs";
@@ -15,7 +15,7 @@ import { fetchGreenhouseBoard } from "../src/sources/greenhouse.mjs";
 import { fetchLeverBoard } from "../src/sources/lever.mjs";
 import { fetchAshbyBoard } from "../src/sources/ashby.mjs";
 import { fetchSmartRecruitersBoard } from "../src/sources/smartrecruiters.mjs";
-import { preFilter, plainRemote } from "../src/filters.mjs";
+import { preFilter, plainRemote, SOFTWARE_TITLE } from "../src/filters.mjs";
 
 const maxArg = process.argv.indexOf("--max");
 const MAX = maxArg > -1 ? Number(process.argv[maxArg + 1]) : Infinity;
@@ -63,7 +63,7 @@ const results = await mapLimit(todo, 8, async ({ platform, token }) => {
   try {
     const jobs = await FETCH[platform](token);
     const { kept } = preFilter(jobs, filters, config.toInr, {});
-    const good = kept.filter((j) => j.where === "india" || plainRemote(j.location));
+    const good = kept.filter((j) => SOFTWARE_TITLE.test(j.title) && (j.where === "india" || plainRemote(j.location)));
     row = { platform, token, ok: true, company: jobs[0]?.company || token, total: jobs.length, eligible: good.length,
             india: good.filter((j) => j.where === "india").length, remote: good.filter((j) => j.where === "remote").length };
   } catch { /* board gone or renamed */ }
