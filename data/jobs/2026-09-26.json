@@ -1,0 +1,305 @@
+[
+ {
+  "uid": "adzuna:5899028864",
+  "source": "Adzuna",
+  "company": "Masai",
+  "title": "Teaching Assistant – Forward Deployed Engineer | Part-Time",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5899028864?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-09-26T07:08:58Z",
+  "salary": {
+   "min": 1664000,
+   "max": 3744000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 16.64,
+   "max": 37.440000000000005
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [],
+   "summary": "Teaching Assistant – Forward Deployed Engineer to support learners in an online software engineering program.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5898568083",
+  "source": "Adzuna",
+  "company": "Right Advisors",
+  "title": "Software Test Enginer",
+  "location": "Kherwadi, Mumbai",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5898568083?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-09-25T22:14:25Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Test Automation",
+    "Selenium",
+    "PyTest"
+   ],
+   "summary": "Software Test Automation Engineer designing and maintaining automated test solutions.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "adzuna:5898184063",
+  "source": "Adzuna",
+  "company": "VY SYSTEMS PRIVATE LIMITED",
+  "title": "Java Developer",
+  "location": "Hyderabad, Telangana",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5898184063?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-09-25T16:18:18Z",
+  "salary": {
+   "min": 2000000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 20,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "React",
+    "SQL",
+    "RESTful APIs"
+   ],
+   "summary": "Design, develop, and maintain scalable web applications using Java, Spring Boot, and React.js.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:Intuitive:744000151982420",
+  "source": "SmartRecruiters",
+  "company": "Intuitive",
+  "title": "IT PLM Developer Analyst",
+  "location": "Bengaluru, INDIA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000151982420",
+  "postedAt": "2026-09-26T06:07:19.503Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Agile PLM",
+    "SDK",
+    "Integration",
+    "Cloud PLM",
+    "Configuration",
+    "Development"
+   ],
+   "summary": "Serve as functional and technical analyst for Medical Device PLM processes and support Agile PLM platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:Sutherland:744000151904629",
+  "source": "SmartRecruiters",
+  "company": "Sutherland",
+  "title": "Data Analyst",
+  "location": "Chennai, //TN, IN",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Sutherland/744000151904629",
+  "postedAt": "2026-09-25T17:14:33.581Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Microsoft Fabric",
+    "Azure",
+    "SQL",
+    "Python",
+    "Pandas",
+    "NumPy",
+    "PySpark"
+   ],
+   "summary": "Design and develop data pipelines, lakehouse solutions, and analytics models using Microsoft Fabric.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:Sutherland:744000151903130",
+  "source": "SmartRecruiters",
+  "company": "Sutherland",
+  "title": "MIS and Power BI Developer",
+  "location": "Chennai, //TN, IN",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Sutherland/744000151903130",
+  "postedAt": "2026-09-25T17:11:52.283Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Power BI",
+    "Excel",
+    "VBA",
+    "PowerPoint"
+   ],
+   "summary": "Create and manage MIS and Power BI reports for finance and operations processes.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "greenhouse:wpp:8829806002",
+  "source": "Greenhouse",
+  "company": "WPP",
+  "title": "Security Detection Engineer",
+  "location": "Chennai, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/wpp/jobs/8829806002",
+  "postedAt": "2026-09-25T07:01:24-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "SIEM",
+    "EDR",
+    "NDR",
+    "cloud-native",
+    "scripting",
+    "CI/CD"
+   ],
+   "summary": "Designs, develops, and maintains detection logic across enterprise security platforms.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:picoquantitativetrading:4715887006",
+  "source": "Greenhouse",
+  "company": "Pico",
+  "title": "QA Engineer",
+  "location": "Hyderabad",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4715887006",
+  "postedAt": "2026-09-25T11:28:45-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "shell scripting",
+    "Linux",
+    "automation testing",
+    "functional testing",
+    "cloud environment"
+   ],
+   "summary": "Automates functional testing for high-performance market data and trading applications.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000151811409",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "IT Infrastructure Service Desk Agent",
+  "location": "Coimbatore, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000151811409",
+  "postedAt": "2026-09-25T10:09:56.763Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Microsoft 365",
+    "Windows",
+    "identity & access management",
+    "troubleshooting",
+    "ticketing"
+   ],
+   "summary": "Delivers first-line IT support for users across Europe from Coimbatore.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ }
+]
