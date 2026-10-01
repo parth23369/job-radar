@@ -1,0 +1,557 @@
+[
+ {
+  "uid": "adzuna:5904171772",
+  "source": "Adzuna",
+  "company": "Arminus",
+  "title": "NET Core Web Developer",
+  "location": "Bazargate, Mumbai",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5904171772?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-09-30T23:51:27Z",
+  "salary": {
+   "min": 2000000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 20,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    ".NET Core",
+    "MS SQL",
+    "Application security"
+   ],
+   "summary": "Develop .NET Core web applications for the banking domain.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "adzuna:5904502897",
+  "source": "Adzuna",
+  "company": "Santa Browser",
+  "title": "Backend Platform Engineer",
+  "location": "Hyderabad, Telangana",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5904502897?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-01T08:19:02Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Node.js",
+    "TypeScript",
+    "API performance",
+    "Event-driven pipelines",
+    "Multi-tenant systems",
+    "Data infrastructure"
+   ],
+   "summary": "Build and maintain scalable backend services and data infrastructure for a consumer technology platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5904502854",
+  "source": "Adzuna",
+  "company": "ALTRAIZE",
+  "title": "Data Scientist",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5904502854?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-01T08:19:01Z",
+  "salary": {
+   "min": 3000000,
+   "max": 3500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 30.000000000000004,
+   "max": 35
+  },
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Data pipelines",
+    "Statistical analysis",
+    "Machine learning",
+    "Data visualization"
+   ],
+   "summary": "Design, develop, and maintain data pipelines and predictive models.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:toast:8232478",
+  "source": "Greenhouse",
+  "company": "Toast",
+  "title": "Software Engineer",
+  "location": "Bengaluru, Karnataka, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8232478",
+  "postedAt": "2026-10-01T02:49:55-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Kotlin",
+    "AWS",
+    "RESTful APIs",
+    "Microservices",
+    "Datadog",
+    "CloudWatch"
+   ],
+   "summary": "Build backend microservices and APIs for Toast Connect.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "lever:veeva:a89d4ff8-b50b-4e56-9b74-0823d2751c66",
+  "source": "Lever",
+  "company": "Veeva",
+  "title": "NetSuite Developer",
+  "location": "India - Hyderabad / India - Hyderabad",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://jobs.lever.co/veeva/a89d4ff8-b50b-4e56-9b74-0823d2751c66",
+  "applyUrl": "https://jobs.lever.co/veeva/a89d4ff8-b50b-4e56-9b74-0823d2751c66/apply",
+  "postedAt": "2026-09-30T20:24:56.055Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "NetSuite",
+    "ERP",
+    "Scripting",
+    "Integration",
+    "AI",
+    "Custom development"
+   ],
+   "summary": "Develop and maintain NetSuite ERP solutions and integrations.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "lever:ion:6f66cbb4-c882-4234-b84e-68baea56e1ea",
+  "source": "Lever",
+  "company": "Ion",
+  "title": "Software Developer, 2027 Leadership Development Program, ION Group, India",
+  "location": "Noida / Noida / Mumbai / Pune",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea",
+  "applyUrl": "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea/apply",
+  "postedAt": "2026-09-30T13:40:57.571Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Agile",
+    "Software Design",
+    "Scalable Systems",
+    "Performance",
+    "Security"
+   ],
+   "summary": "Design, develop, and maintain software solutions for global clients in an Agile team.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:ServiceNow:744000152830943",
+  "source": "SmartRecruiters",
+  "company": "ServiceNow",
+  "title": "Software Engineer (Cybersecurity Integrations) - Armis",
+  "location": "Bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000152830943",
+  "postedAt": "2026-10-01T05:56:53.000Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "APIs",
+    "webhooks",
+    "streaming data",
+    "networking",
+    "TCP/IP",
+    "L3-L7 protocols",
+    "cybersecurity"
+   ],
+   "summary": "Builds and maintains scalable, AI‑native integrations for cybersecurity platforms.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:ServiceNow:744000152831074",
+  "source": "SmartRecruiters",
+  "company": "ServiceNow",
+  "title": "Software Engineer (Cybersecurity Integrations) - Armis ",
+  "location": "Bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000152831074",
+  "postedAt": "2026-10-01T05:48:44.823Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "APIs",
+    "webhooks",
+    "streaming data",
+    "networking",
+    "TCP/IP",
+    "L3-L7 protocols",
+    "cybersecurity"
+   ],
+   "summary": "Builds and maintains scalable, AI‑native integrations for cybersecurity platforms.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:Sutherland:744000152885943",
+  "source": "SmartRecruiters",
+  "company": "Sutherland",
+  "title": "Platform Engineer & Cloud Ops Engineer",
+  "location": "Hyderabad, //TS, IN",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Sutherland/744000152885943",
+  "postedAt": "2026-10-01T09:55:06.429Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "GCP",
+    "AWS",
+    "Terraform",
+    "Kubernetes",
+    "GKE",
+    "Helm",
+    "Istio",
+    "GitLab CI/CD",
+    "Datadog",
+    "FinOps"
+   ],
+   "summary": "Architects and operates multi‑cloud platforms, automating infrastructure and ensuring reliability.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:SmithsGroup2:744000152826719",
+  "source": "SmartRecruiters",
+  "company": "Smiths Group",
+  "title": "Software Engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000152826719",
+  "postedAt": "2026-10-01T04:46:28.549Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Angular",
+    "Java",
+    "Spring Boot",
+    "Python",
+    "Go",
+    "Docker",
+    "Kubernetes",
+    "cloud platforms"
+   ],
+   "summary": "Develops scalable, secure software across multiple technologies while driving DevOps practices.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000152879979",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer (Oracle PL/SQL, Python AND AI)",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000152879979",
+  "postedAt": "2026-10-01T09:17:17.691Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Oracle PL/SQL",
+    "Python",
+    "Cloud",
+    "Unix Shell Scripting",
+    "Generative AI",
+    "SQL",
+    "AI solutions",
+    "Data processing engine"
+   ],
+   "summary": "Develop and maintain PL/SQL and Python based data processing and AI solutions on Azure.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000152869059",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer (Java, Python & AI Developer)",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000152869059",
+  "postedAt": "2026-10-01T08:33:30.345Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "Python",
+    "NumPy",
+    "REST APIs",
+    "Flask",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Security best practices"
+   ],
+   "summary": "Build scalable Java and Python microservices on Azure, guiding junior engineers.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:NECSWS:744000152589569",
+  "source": "SmartRecruiters",
+  "company": "NECSWS",
+  "title": "Software Engineer - Full Stack Developer (Java+React)",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NECSWS/744000152589569",
+  "postedAt": "2026-09-30T05:02:03.322Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "Hibernate",
+    "React",
+    "Next.js",
+    "REST APIs",
+    "Microservices"
+   ],
+   "summary": "Full‑stack development of web applications using Java backend and React/Next.js frontend.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NECSWS:744000152342390",
+  "source": "SmartRecruiters",
+  "company": "NECSWS",
+  "title": "Frontend Developer - Angular",
+  "location": "Mumbai, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NECSWS/744000152342390",
+  "postedAt": "2026-09-29T07:22:42.855Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Blazor",
+    "Component‑based UI",
+    "Responsive design"
+   ],
+   "summary": "Develop modern, responsive front‑end interfaces using Blazor and related web technologies.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000152838649",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Logistics System Analyst & Rollout Engineer",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152838649",
+  "postedAt": "2026-10-01T06:18:36.301Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "CCTV",
+    "video analytics",
+    "motion detection",
+    "license plate recognition",
+    "server management",
+    "SAP-EWM",
+    "Sentinela",
+    "BVMS"
+   ],
+   "summary": "Develop and implement CCTV solutions and intelligent video analytics in logistics and industrial environments.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:gitlab:8857335002",
+  "source": "Greenhouse",
+  "company": "GitLab",
+  "title": "Professional Services Engineer - West ",
+  "location": "Remote",
+  "isRemote": true,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8857335002",
+  "postedAt": "2026-09-30T14:29:11-04:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "GitLab",
+    "DevSecOps",
+    "AI",
+    "architecture",
+    "infrastructure"
+   ],
+   "summary": "Lead technical direction of customer engagements as a Professional Services Technical Architect for GitLab.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]

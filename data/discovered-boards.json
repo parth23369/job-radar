@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T07:59:04.001Z",
+ "generatedAt": "2026-10-01T10:27:56.958Z",
  "minEligibleJobs": 3,
  "boards": {
   "greenhouse": [
@@ -7,14 +7,14 @@
    "point72",
    "speechify",
    "stockx",
-   "wpp",
    "gleanwork",
    "rackner",
-   "devrev",
-   "celonis",
-   "coherehealth",
    "icapitalnetwork",
-   "picoquantitativetrading",
+   "devrev",
+   "coherehealth",
+   "celonis",
+   "wpp",
+   "alphasense",
    "singlestore",
    "skildai-careers",
    "arcanaanalytics",
@@ -22,50 +22,52 @@
    "emergentlabsinc",
    "dialpad",
    "koboldmetals",
+   "instawork",
    "devtechnology"
   ],
   "smartrecruiters": [
    "Eurofins",
    "AristaNetworks",
-   "MattelInc",
    "JobsForHumanity",
    "RA2",
    "InformaGroupPlc",
-   "NielsenIQ",
-   "Londontown",
+   "MattelInc",
    "Sia",
-   "Intuitive",
    "Sutherland",
+   "Londontown",
    "SmithsGroup2",
    "Wabtec",
    "Mapjectscom",
+   "Intuitive",
+   "NielsenIQ",
    "Consultadd4",
    "EProInc",
+   "NECSWS",
    "TheNielsenCompany"
   ],
   "lever": [
    "weloglobal",
-   "tsmg",
    "veeva",
-   "beghouconsulting",
    "pingwind",
+   "tsmg",
+   "beghouconsulting",
    "thinkahead",
    "shyftlabs",
    "xsolla",
-   "truetandem",
-   "zaimler"
+   "ion"
   ],
   "ashby": [
    "lilt-production",
+   "aptura",
    "ema",
    "outmarket",
+   "swarmaero",
    "realmalliance",
    "havocai",
    "span",
-   "swarmaero",
    "persona",
    "G2",
-   "kong"
+   "cursor"
   ]
  },
  "details": [
@@ -74,9 +76,9 @@
    "token": "capco",
    "ok": true,
    "company": "Capco",
-   "total": 754,
-   "eligible": 54,
-   "india": 54,
+   "total": 695,
+   "eligible": 44,
+   "india": 44,
    "remote": 0
   },
   {
@@ -85,8 +87,8 @@
    "ok": true,
    "company": "Eurofins",
    "total": 200,
-   "eligible": 23,
-   "india": 23,
+   "eligible": 22,
+   "india": 22,
    "remote": 0
   },
   {
@@ -94,19 +96,9 @@
    "token": "weloglobal",
    "ok": true,
    "company": "Weloglobal",
-   "total": 524,
+   "total": 530,
    "eligible": 16,
    "india": 16,
-   "remote": 0
-  },
-  {
-   "platform": "greenhouse",
-   "token": "point72",
-   "ok": true,
-   "company": "Point72 ",
-   "total": 220,
-   "eligible": 15,
-   "india": 15,
    "remote": 0
   },
   {
@@ -114,7 +106,7 @@
    "token": "AristaNetworks",
    "ok": true,
    "company": "Arista Networks",
-   "total": 128,
+   "total": 121,
    "eligible": 15,
    "india": 15,
    "remote": 0
@@ -124,9 +116,19 @@
    "token": "lilt-production",
    "ok": true,
    "company": "Lilt-production",
-   "total": 428,
+   "total": 431,
    "eligible": 14,
    "india": 14,
+   "remote": 0
+  },
+  {
+   "platform": "greenhouse",
+   "token": "point72",
+   "ok": true,
+   "company": "Point72 ",
+   "total": 217,
+   "eligible": 13,
+   "india": 13,
    "remote": 0
   },
   {
@@ -134,49 +136,49 @@
    "token": "speechify",
    "ok": true,
    "company": "Speechify",
-   "total": 254,
+   "total": 243,
    "eligible": 11,
    "india": 9,
    "remote": 2
-  },
-  {
-   "platform": "smartrecruiters",
-   "token": "MattelInc",
-   "ok": true,
-   "company": "Mattel",
-   "total": 151,
-   "eligible": 10,
-   "india": 10,
-   "remote": 0
   },
   {
    "platform": "greenhouse",
    "token": "stockx",
    "ok": true,
    "company": "StockX",
-   "total": 35,
-   "eligible": 9,
-   "india": 9,
+   "total": 37,
+   "eligible": 8,
+   "india": 8,
    "remote": 0
+  },
+  {
+   "platform": "lever",
+   "token": "veeva",
+   "ok": true,
+   "company": "Veeva",
+   "total": 931,
+   "eligible": 8,
+   "india": 8,
+   "remote": 0
+  },
+  {
+   "platform": "lever",
+   "token": "pingwind",
+   "ok": true,
+   "company": "Pingwind",
+   "total": 105,
+   "eligible": 8,
+   "india": 0,
+   "remote": 8
   },
   {
    "platform": "lever",
    "token": "tsmg",
    "ok": true,
    "company": "Tsmg",
-   "total": 4334,
+   "total": 4345,
    "eligible": 8,
    "india": 8,
-   "remote": 0
-  },
-  {
-   "platform": "greenhouse",
-   "token": "wpp",
-   "ok": true,
-   "company": "WPP",
-   "total": 221,
-   "eligible": 7,
-   "india": 7,
    "remote": 0
   },
   {
@@ -184,7 +186,7 @@
    "token": "gleanwork",
    "ok": true,
    "company": "Glean",
-   "total": 130,
+   "total": 132,
    "eligible": 7,
    "india": 7,
    "remote": 0
@@ -200,14 +202,14 @@
    "remote": 7
   },
   {
-   "platform": "lever",
-   "token": "veeva",
+   "platform": "ashby",
+   "token": "aptura",
    "ok": true,
-   "company": "Veeva",
-   "total": 916,
+   "company": "Aptura",
+   "total": 31,
    "eligible": 7,
-   "india": 7,
-   "remote": 0
+   "india": 6,
+   "remote": 1
   },
   {
    "platform": "smartrecruiters",
@@ -221,6 +223,16 @@
   },
   {
    "platform": "greenhouse",
+   "token": "icapitalnetwork",
+   "ok": true,
+   "company": "iCapital",
+   "total": 214,
+   "eligible": 6,
+   "india": 6,
+   "remote": 0
+  },
+  {
+   "platform": "greenhouse",
    "token": "devrev",
    "ok": true,
    "company": "DevRev",
@@ -230,11 +242,21 @@
    "remote": 0
   },
   {
+   "platform": "greenhouse",
+   "token": "coherehealth",
+   "ok": true,
+   "company": "Cohere Health",
+   "total": 77,
+   "eligible": 6,
+   "india": 6,
+   "remote": 0
+  },
+  {
    "platform": "ashby",
    "token": "ema",
    "ok": true,
    "company": "Ema",
-   "total": 40,
+   "total": 39,
    "eligible": 6,
    "india": 6,
    "remote": 0
@@ -244,7 +266,7 @@
    "token": "outmarket",
    "ok": true,
    "company": "Outmarket",
-   "total": 21,
+   "total": 19,
    "eligible": 6,
    "india": 6,
    "remote": 0
@@ -264,7 +286,37 @@
    "token": "InformaGroupPlc",
    "ok": true,
    "company": "Informa Group Plc.",
-   "total": 118,
+   "total": 115,
+   "eligible": 6,
+   "india": 6,
+   "remote": 0
+  },
+  {
+   "platform": "smartrecruiters",
+   "token": "MattelInc",
+   "ok": true,
+   "company": "Mattel",
+   "total": 142,
+   "eligible": 6,
+   "india": 6,
+   "remote": 0
+  },
+  {
+   "platform": "smartrecruiters",
+   "token": "Sia",
+   "ok": true,
+   "company": "Sia",
+   "total": 126,
+   "eligible": 6,
+   "india": 6,
+   "remote": 0
+  },
+  {
+   "platform": "smartrecruiters",
+   "token": "Sutherland",
+   "ok": true,
+   "company": "Sutherland",
+   "total": 158,
    "eligible": 6,
    "india": 6,
    "remote": 0
@@ -274,17 +326,17 @@
    "token": "celonis",
    "ok": true,
    "company": "Celonis",
-   "total": 249,
+   "total": 239,
    "eligible": 5,
    "india": 5,
    "remote": 0
   },
   {
    "platform": "greenhouse",
-   "token": "coherehealth",
+   "token": "wpp",
    "ok": true,
-   "company": "Cohere Health",
-   "total": 80,
+   "company": "WPP",
+   "total": 210,
    "eligible": 5,
    "india": 5,
    "remote": 0
@@ -294,30 +346,30 @@
    "token": "beghouconsulting",
    "ok": true,
    "company": "Beghouconsulting",
-   "total": 82,
+   "total": 77,
    "eligible": 5,
    "india": 5,
    "remote": 0
   },
   {
    "platform": "lever",
-   "token": "pingwind",
+   "token": "thinkahead",
    "ok": true,
-   "company": "Pingwind",
-   "total": 81,
-   "eligible": 5,
-   "india": 0,
-   "remote": 5
-  },
-  {
-   "platform": "smartrecruiters",
-   "token": "NielsenIQ",
-   "ok": true,
-   "company": "NielsenIQ",
-   "total": 163,
+   "company": "Thinkahead",
+   "total": 145,
    "eligible": 5,
    "india": 5,
    "remote": 0
+  },
+  {
+   "platform": "ashby",
+   "token": "swarmaero",
+   "ok": true,
+   "company": "Swarmaero",
+   "total": 36,
+   "eligible": 5,
+   "india": 0,
+   "remote": 5
   },
   {
    "platform": "smartrecruiters",
@@ -330,51 +382,11 @@
    "remote": 0
   },
   {
-   "platform": "smartrecruiters",
-   "token": "Sia",
-   "ok": true,
-   "company": "Sia",
-   "total": 125,
-   "eligible": 5,
-   "india": 5,
-   "remote": 0
-  },
-  {
-   "platform": "smartrecruiters",
-   "token": "Intuitive",
-   "ok": true,
-   "company": "Intuitive",
-   "total": 176,
-   "eligible": 5,
-   "india": 5,
-   "remote": 0
-  },
-  {
-   "platform": "smartrecruiters",
-   "token": "Sutherland",
-   "ok": true,
-   "company": "Sutherland",
-   "total": 159,
-   "eligible": 5,
-   "india": 5,
-   "remote": 0
-  },
-  {
    "platform": "greenhouse",
-   "token": "icapitalnetwork",
+   "token": "alphasense",
    "ok": true,
-   "company": "iCapital",
+   "company": "AlphaSense",
    "total": 206,
-   "eligible": 4,
-   "india": 4,
-   "remote": 0
-  },
-  {
-   "platform": "greenhouse",
-   "token": "picoquantitativetrading",
-   "ok": true,
-   "company": "Pico",
-   "total": 57,
    "eligible": 4,
    "india": 4,
    "remote": 0
@@ -384,7 +396,7 @@
    "token": "singlestore",
    "ok": true,
    "company": "SingleStore",
-   "total": 44,
+   "total": 40,
    "eligible": 4,
    "india": 4,
    "remote": 0
@@ -394,7 +406,7 @@
    "token": "skildai-careers",
    "ok": true,
    "company": "Skild AI",
-   "total": 44,
+   "total": 46,
    "eligible": 4,
    "india": 4,
    "remote": 0
@@ -414,7 +426,7 @@
    "token": "truveta",
    "ok": true,
    "company": "Truveta",
-   "total": 40,
+   "total": 39,
    "eligible": 4,
    "india": 4,
    "remote": 0
@@ -424,17 +436,7 @@
    "token": "emergentlabsinc",
    "ok": true,
    "company": "Emergent Labs ",
-   "total": 38,
-   "eligible": 4,
-   "india": 4,
-   "remote": 0
-  },
-  {
-   "platform": "lever",
-   "token": "thinkahead",
-   "ok": true,
-   "company": "Thinkahead",
-   "total": 143,
+   "total": 41,
    "eligible": 4,
    "india": 4,
    "remote": 0
@@ -454,7 +456,7 @@
    "token": "xsolla",
    "ok": true,
    "company": "Xsolla",
-   "total": 180,
+   "total": 174,
    "eligible": 4,
    "india": 2,
    "remote": 2
@@ -490,21 +492,11 @@
    "remote": 0
   },
   {
-   "platform": "ashby",
-   "token": "swarmaero",
-   "ok": true,
-   "company": "Swarmaero",
-   "total": 30,
-   "eligible": 4,
-   "india": 0,
-   "remote": 4
-  },
-  {
    "platform": "smartrecruiters",
    "token": "SmithsGroup2",
    "ok": true,
    "company": "Smiths Group",
-   "total": 157,
+   "total": 158,
    "eligible": 4,
    "india": 4,
    "remote": 0
@@ -530,11 +522,21 @@
    "remote": 0
   },
   {
+   "platform": "smartrecruiters",
+   "token": "Intuitive",
+   "ok": true,
+   "company": "Intuitive",
+   "total": 177,
+   "eligible": 4,
+   "india": 4,
+   "remote": 0
+  },
+  {
    "platform": "greenhouse",
    "token": "dialpad",
    "ok": true,
    "company": "Dialpad",
-   "total": 65,
+   "total": 60,
    "eligible": 3,
    "india": 3,
    "remote": 0
@@ -551,30 +553,30 @@
   },
   {
    "platform": "greenhouse",
+   "token": "instawork",
+   "ok": true,
+   "company": "Instawork",
+   "total": 58,
+   "eligible": 3,
+   "india": 3,
+   "remote": 0
+  },
+  {
+   "platform": "greenhouse",
    "token": "devtechnology",
    "ok": true,
    "company": "Dev Technology",
-   "total": 32,
+   "total": 24,
    "eligible": 3,
    "india": 0,
    "remote": 3
   },
   {
    "platform": "lever",
-   "token": "truetandem",
+   "token": "ion",
    "ok": true,
-   "company": "Truetandem",
-   "total": 9,
-   "eligible": 3,
-   "india": 0,
-   "remote": 3
-  },
-  {
-   "platform": "lever",
-   "token": "zaimler",
-   "ok": true,
-   "company": "Zaimler",
-   "total": 13,
+   "company": "Ion",
+   "total": 95,
    "eligible": 3,
    "india": 3,
    "remote": 0
@@ -594,17 +596,27 @@
    "token": "G2",
    "ok": true,
    "company": "G2",
-   "total": 44,
+   "total": 47,
    "eligible": 3,
    "india": 3,
    "remote": 0
   },
   {
    "platform": "ashby",
-   "token": "kong",
+   "token": "cursor",
    "ok": true,
-   "company": "Kong",
-   "total": 77,
+   "company": "Cursor",
+   "total": 131,
+   "eligible": 3,
+   "india": 1,
+   "remote": 2
+  },
+  {
+   "platform": "smartrecruiters",
+   "token": "NielsenIQ",
+   "ok": true,
+   "company": "NielsenIQ",
+   "total": 167,
    "eligible": 3,
    "india": 3,
    "remote": 0
@@ -631,10 +643,20 @@
   },
   {
    "platform": "smartrecruiters",
+   "token": "NECSWS",
+   "ok": true,
+   "company": "NECSWS",
+   "total": 140,
+   "eligible": 3,
+   "india": 3,
+   "remote": 0
+  },
+  {
+   "platform": "smartrecruiters",
    "token": "TheNielsenCompany",
    "ok": true,
    "company": "The Nielsen Company",
-   "total": 168,
+   "total": 155,
    "eligible": 3,
    "india": 3,
    "remote": 0
