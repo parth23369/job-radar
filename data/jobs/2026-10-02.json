@@ -1,0 +1,122 @@
+[
+ {
+  "uid": "adzuna:5906871999",
+  "source": "Adzuna",
+  "company": "Umanist Staffing LLC",
+  "title": "Software Engineer",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5906871999?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-02T07:53:55Z",
+  "salary": {
+   "min": 1500000,
+   "max": 1600000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 16
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Backend Engineer working in-office in Gurugram, Haryana.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5906234982",
+  "source": "Adzuna",
+  "company": "Acme Services Private Limited",
+  "title": "Java Backend AWS",
+  "location": "Chandni Chowk, North Delhi",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5906234982?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-02T01:27:38Z",
+  "salary": {
+   "min": 1400000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 14.000000000000002,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "RESTful APIs",
+    "Microservices",
+    "Hibernate",
+    "JPA",
+    "AWS EC2",
+    "S3",
+    "RDS",
+    "Lambda",
+    "CloudWatch"
+   ],
+   "summary": "Java backend engineer designing and maintaining scalable applications on AWS.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5905444128",
+  "source": "Adzuna",
+  "company": "taxmann publications",
+  "title": "Full Stack Developer - MERN",
+  "location": "Delhi, India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5905444128?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-01T16:30:13Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1300000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 13.000000000000002
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "MERN",
+    "MEAN",
+    "frontend",
+    "backend",
+    "databases"
+   ],
+   "summary": "Full Stack Developer building web applications using MERN/MEAN stack.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
