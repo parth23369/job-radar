@@ -1,0 +1,88 @@
+[
+ {
+  "uid": "adzuna:5909846869",
+  "source": "Adzuna",
+  "company": "Hashone Careers",
+  "title": "Applied AI Engineer with Fullstack",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5909846869?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-03T16:32:03Z",
+  "salary": {
+   "min": 1200000,
+   "max": 4000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 40
+  },
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "React",
+    "LLMs",
+    "RAG",
+    "AI agents",
+    "tool/function-calling",
+    "backend APIs",
+    "frontend"
+   ],
+   "summary": "Build AI/LLM-powered applications and full‑stack features from idea to production.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5910504775",
+  "source": "Adzuna",
+  "company": "Acme Services Private Limited",
+  "title": "Python Developer",
+  "location": "Richmond Town, Bangalore",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5910504775?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-03T23:56:17Z",
+  "salary": {
+   "min": 1700000,
+   "max": 1800000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 17,
+   "max": 18
+  },
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "REST APIs",
+    "Microservices",
+    "PostgreSQL",
+    "MySQL",
+    "Oracle",
+    "MongoDB",
+    "unit tests"
+   ],
+   "summary": "Develop and maintain scalable backend applications using Python and various databases.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
