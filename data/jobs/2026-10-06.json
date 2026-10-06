@@ -1,0 +1,588 @@
+[
+ {
+  "uid": "adzuna:5913214060",
+  "source": "Adzuna",
+  "company": "Neev Pvt Ltd",
+  "title": "Full-Stack AI Engineer (UI/UX) Available to join in 0-15 days only",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5913214060?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-06T07:35:35Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "AI",
+    "UI/UX",
+    "Agile Scrum"
+   ],
+   "summary": "Build AI-powered features with a strong emphasis on UI/UX for in-house products.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5912846899",
+  "source": "Adzuna",
+  "company": "Match Point Solutions",
+  "title": "AI Data Science Developer & Analyst",
+  "location": "Richmond Town, Bangalore",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5912846899?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-05T23:49:13Z",
+  "salary": {
+   "min": 1000000,
+   "max": 2400000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 24.000000000000004
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "AI",
+    "Data Science",
+    "Analytics"
+   ],
+   "summary": "Develop and analyze AI and data science solutions for global clients.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5912785394",
+  "source": "Adzuna",
+  "company": "Vrinda International",
+  "title": "DATA SCIENTIST",
+  "location": "Mumbai, Maharashtra",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5912785394?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-05T22:49:54Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 20
+  },
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Statistical Techniques",
+    "Machine learning",
+    "Predictive Modeling"
+   ],
+   "summary": "Leverage advanced statistical and machine learning methods to drive innovation and solve business challenges.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:rubrik:8256407",
+  "source": "Greenhouse",
+  "company": "Rubrik Job Board",
+  "title": "Software Engineer- SaaS O365",
+  "location": "Bangalore ",
+  "isRemote": false,
+  "country": null,
+  "url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
+  "postedAt": "2026-10-06T06:14:01-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Go",
+    "Java",
+    "C++",
+    "Scala",
+    "Python",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Microservices"
+   ],
+   "summary": "Build and maintain SaaS software using distributed systems and cloud technologies.",
+   "tech_role": true,
+   "yoe_min": 0
+  }
+ },
+ {
+  "uid": "greenhouse:twilio:8247112",
+  "source": "Greenhouse",
+  "company": "Twilio",
+  "title": "Software Engineer (L2)",
+  "location": "Remote - India",
+  "isRemote": true,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8247112",
+  "postedAt": "2026-10-06T01:17:08-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Python",
+    "Microservices",
+    "Cloud",
+    "Kubernetes",
+    "AWS",
+    "System design",
+    "Distributed systems",
+    "React",
+    "SQL"
+   ],
+   "summary": "Build and maintain microservices for Twilio Flex platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:okta:8243101",
+  "source": "Greenhouse",
+  "company": "Okta",
+  "title": "Site Reliability Engineer",
+  "location": "Bengaluru, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101",
+  "postedAt": "2026-10-06T03:04:07-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "no",
+   "skills": [
+    "Site Reliability Engineering",
+    "Observability",
+    "Automation",
+    "Cloud",
+    "Kubernetes",
+    "AWS",
+    "Python",
+    "Docker",
+    "Prometheus"
+   ],
+   "summary": "Operate and improve reliability of Okta's cloud services.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:elastic:8247206",
+  "source": "Greenhouse",
+  "company": "Elastic",
+  "title": "Agentic AI Engineer",
+  "location": "Bangalore, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8247206&gh_jid=8247206",
+  "postedAt": "2026-10-06T01:57:48-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "no",
+   "skills": [
+    "LLMs",
+    "Agent orchestration",
+    "Python",
+    "Machine learning",
+    "Distributed systems",
+    "API integration",
+    "Docker",
+    "Kubernetes"
+   ],
+   "summary": "Build multi-agent ecosystems using LLMs for Elastic.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:capco:8255663",
+  "source": "Greenhouse",
+  "company": "Capco",
+  "title": "Alteryx Developer - PC",
+  "location": "India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/capco/jobs/8255663",
+  "postedAt": "2026-10-06T05:17:02-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "no",
+   "skills": [
+    "Alteryx",
+    "Data Automation",
+    "Data Controls",
+    "SQL",
+    "Python",
+    "ETL",
+    "Data Lineage",
+    "Risk Management"
+   ],
+   "summary": "Develop Alteryx automation solutions for data controls.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:capco:8255708",
+  "source": "Greenhouse",
+  "company": "Capco",
+  "title": "Java Developer",
+  "location": "India - Pune",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/capco/jobs/8255708",
+  "postedAt": "2026-10-05T09:42:16-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java"
+   ],
+   "summary": "Design and build a next generation automated locates platform for securities lending operations.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:point72:8864086002",
+  "source": "Greenhouse",
+  "company": "Point72 ",
+  "title": "Software Engineer - Cloud Infrastructure",
+  "location": "Bengaluru, India ",
+  "isRemote": false,
+  "country": null,
+  "url": "https://boards.greenhouse.io/point72/jobs/8864086002?gh_jid=8864086002",
+  "postedAt": "2026-10-05T11:30:10-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Kubernetes",
+    "Amazon EKS",
+    "Terraform",
+    "AWS",
+    "PostgreSQL",
+    "IAM",
+    "Airflow"
+   ],
+   "summary": "Design, operate, and improve Kubernetes infrastructure on Amazon EKS and manage AWS resources for Point72’s technology team.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000153678133",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "AI and DevOps Engineer",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153678133",
+  "postedAt": "2026-10-06T07:22:26.633Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Java",
+    "NLP",
+    "SpaCy",
+    "NLTK",
+    "Regex",
+    "DevOps"
+   ],
+   "summary": "Apply Python or Java skills in NLP and DevOps for Bosch Group.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000153495804",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Oracle SQL developer",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153495804",
+  "postedAt": "2026-10-05T13:12:40.415Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Oracle SQL",
+    "Spring Boot",
+    "Spring Cloud",
+    "React",
+    "Angular",
+    "Vue.js",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Splunk",
+    "Oracle Database"
+   ],
+   "summary": "Designs and develops scalable microservices and front‑end interfaces while optimizing Oracle database queries.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000153701859",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "Power BI Developer ",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000153701859",
+  "postedAt": "2026-10-06T09:04:36.773Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Power BI",
+    "Data Modeling",
+    "Dashboards",
+    "Analytics",
+    "DORA metrics"
+   ],
+   "summary": "Builds and optimizes Power BI reporting solutions and data integration services for business and IT stakeholders.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:Wabtec:3743990015888876",
+  "source": "SmartRecruiters",
+  "company": "Wabtec",
+  "title": "Embedded Software Engineer Specialist",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015888876",
+  "postedAt": "2026-10-05T13:55:49.007Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "C",
+    "C++",
+    "Embedded Systems",
+    "RTOS",
+    "Linux",
+    "Unit Testing",
+    "Debugging"
+   ],
+   "summary": "Develops, tests, and debugs embedded software for railway control systems.",
+   "tech_role": true,
+   "yoe_min": 1
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000153679239",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Expert (AI) - EU RD",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000153679239",
+  "postedAt": "2026-10-06T07:23:26.027Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "AI",
+    "Automation",
+    "Analytics",
+    "Data Analysis",
+    "Process Improvement"
+   ],
+   "summary": "Improves reference data operations using AI, automation, and analytics across EU markets.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000153674539",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Infrastructure, Automation & Integration Engineer",
+  "location": "hosur road bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153674539",
+  "postedAt": "2026-10-06T07:05:29.306Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "SAP Administration",
+    "ERP integration",
+    "PowerShell",
+    "Perl",
+    "Python",
+    "Power Automate",
+    "n8n",
+    "Microsoft Copilot"
+   ],
+   "summary": "Infrastructure engineer designing and automating ERP and document processes.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000153588459",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "HiL Test Engineer",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153588459",
+  "postedAt": "2026-10-05T18:30:28.401Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "CANoe",
+    "CAPL",
+    "dSPACE HiL",
+    "Vector",
+    "Diagnostics",
+    "CAN",
+    "LIN",
+    "Git",
+    "UDS",
+    "DoIP",
+    "Python",
+    "C++"
+   ],
+   "summary": "HiL test engineer creating test specifications and executing tests on vehicle electronics.",
+   "tech_role": true,
+   "yoe_min": 1
+  }
+ }
+]
