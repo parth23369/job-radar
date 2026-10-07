@@ -1,0 +1,391 @@
+[
+ {
+  "uid": "adzuna:5913703151",
+  "source": "Adzuna",
+  "company": "Quanteon Solutions",
+  "title": "Software Engineer(ReactNodeGen AI)",
+  "location": "Hyderabad, Telangana",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5913703151?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-06T16:39:00Z",
+  "salary": {
+   "min": 1500000,
+   "max": 3500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 35
+  },
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "React",
+    "Node.js",
+    "API",
+    "Backend",
+    "Security"
+   ],
+   "summary": "Design, develop, and maintain back‑end services and APIs for a React/Node AI product.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:rubrik:8258200",
+  "source": "Greenhouse",
+  "company": "Rubrik Job Board",
+  "title": "Software Engineer - Cloud: Azure",
+  "location": "Bangalore ",
+  "isRemote": false,
+  "country": null,
+  "url": "https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200",
+  "postedAt": "2026-10-07T01:44:10-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Go",
+    "Java",
+    "C++",
+    "Scala",
+    "Python",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Microservices"
+   ],
+   "summary": "Build, test, deploy, and improve cloud‑native software for data protection.",
+   "tech_role": true,
+   "yoe_min": 0
+  }
+ },
+ {
+  "uid": "greenhouse:capco:8260836",
+  "source": "Greenhouse",
+  "company": "Capco",
+  "title": "Java Developer with Temenos",
+  "location": "India - Chennai ",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/capco/jobs/8260836",
+  "postedAt": "2026-10-07T04:08:06-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring",
+    "JPA",
+    "REST APIs",
+    "JMS",
+    "Docker",
+    "Kubernetes",
+    "Wildfly",
+    "Jboss",
+    "IBM MQ",
+    "ActiveMQ",
+    "Kafka",
+    "IBM Cloud",
+    "Prometheus",
+    "PostgreSQL",
+    "MySQL",
+    "MSSQL"
+   ],
+   "summary": "Customize and develop Temenos T24/Transact applications using Java and related technologies.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000154046429",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "Software Engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000154046429",
+  "postedAt": "2026-10-07T09:03:00.459Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Java",
+    "C#",
+    "JavaScript",
+    "C++",
+    "SQL",
+    "REST APIs",
+    "Git",
+    "Azure",
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "Linux",
+    "PowerShell/Bash",
+    "AI-assisted dev tools"
+   ],
+   "summary": "Build and maintain small software components, scripts, and automation solutions.",
+   "tech_role": true,
+   "yoe_min": 0
+  }
+ },
+ {
+  "uid": "smartrecruiters:AristaNetworks:744000154008074",
+  "source": "SmartRecruiters",
+  "company": "Arista Networks",
+  "title": "Software Engineer — Test Automation ",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000154008074",
+  "postedAt": "2026-10-07T05:38:08.652Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Go",
+    "REST APIs",
+    "RADIUS",
+    "EAP",
+    "TACACS+",
+    "PKI",
+    "Test automation",
+    "CI/CD",
+    "Test utilities"
+   ],
+   "summary": "Design and build end‑to‑end automated test suites for a cloud‑native SaaS security platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NECSWS:744000153744310",
+  "source": "SmartRecruiters",
+  "company": "NECSWS",
+  "title": "Moodle Developer & LMS Administrator",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NECSWS/744000153744310",
+  "postedAt": "2026-10-06T12:16:00.304Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "PHP",
+    "MySQL",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Moodle APIs",
+    "REST APIs",
+    "Mustache",
+    "SQL"
+   ],
+   "summary": "Develop, customise, and administer Moodle LMS applications and plugins.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "ashby:openai:2796d32a-9f7c-4008-a2c5-50dd53b0f2fe",
+  "source": "Ashby",
+  "company": "Openai",
+  "title": "Data Engineer, Core Experimentation",
+  "location": "Seattle",
+  "isRemote": true,
+  "country": "United States",
+  "url": "https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe",
+  "applyUrl": "https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe/application",
+  "postedAt": "2026-10-06T20:36:36.917+00:00",
+  "salary": {
+   "min": 347000,
+   "max": 385000,
+   "currency": "USD",
+   "interval": "year"
+  },
+  "where": "remote",
+  "lpa": {
+   "min": 294.95,
+   "max": 327.25
+  },
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Data pipelines",
+    "Data warehouse",
+    "Statistical analysis",
+    "Causal inference",
+    "Python",
+    "SQL"
+   ],
+   "summary": "Build and manage data pipelines and core tables for OpenAI’s experimentation platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:openai:4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2",
+  "source": "Ashby",
+  "company": "Openai",
+  "title": "Software Engineer, Shop/Feed Ads ",
+  "location": "San Francisco",
+  "isRemote": true,
+  "country": "United States",
+  "url": "https://jobs.ashbyhq.com/openai/4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2",
+  "applyUrl": "https://jobs.ashbyhq.com/openai/4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2/application",
+  "postedAt": "2026-10-06T19:50:26.215+00:00",
+  "salary": {
+   "min": 347000,
+   "max": 445000,
+   "currency": "USD",
+   "interval": "year"
+  },
+  "where": "remote",
+  "lpa": {
+   "min": 294.95,
+   "max": 378.25
+  },
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Ads retrieval",
+    "Ranking models",
+    "Catalog ingestion",
+    "Distributed systems",
+    "Search",
+    "Indexing",
+    "Python",
+    "Java"
+   ],
+   "summary": "Lead design and development of systems that convert advertiser feeds into scalable ads delivery.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:openai:4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+  "source": "Ashby",
+  "company": "Openai",
+  "title": "Software Engineer, Life Sciences",
+  "location": "San Francisco",
+  "isRemote": true,
+  "country": "United States",
+  "url": "https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+  "applyUrl": "https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075/application",
+  "postedAt": "2026-10-06T23:58:11.643+00:00",
+  "salary": {
+   "min": 347000,
+   "max": 450000,
+   "currency": "USD",
+   "interval": "year"
+  },
+  "where": "remote",
+  "lpa": {
+   "min": 294.95,
+   "max": 382.5
+  },
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Full-stack",
+    "Backend services",
+    "APIs",
+    "Python",
+    "JavaScript",
+    "React",
+    "Cloud infrastructure"
+   ],
+   "summary": "Build backend services and interfaces that connect scientists with AI models and laboratory workflows.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:TheNielsenCompany:3743990015944446",
+  "source": "SmartRecruiters",
+  "company": "The Nielsen Company",
+  "title": "IT Infrastructure Professional II (L1 Backup & Storage Operations)",
+  "location": "Bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015944446",
+  "postedAt": "2026-10-07T04:56:38.941Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "NetApp",
+    "Veritas NetBackup",
+    "Cohesity",
+    "ITIL",
+    "Backup",
+    "Storage"
+   ],
+   "summary": "Provides L1 backup and storage operations support for NetApp environments.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ }
+]
