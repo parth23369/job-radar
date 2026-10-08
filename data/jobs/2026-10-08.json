@@ -1,0 +1,1418 @@
+[
+ {
+  "uid": "adzuna:5918133889",
+  "source": "Adzuna",
+  "company": "Umanist Staffing LLC",
+  "title": "Software Development Engineer 1",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5918133889?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-08T07:35:23Z",
+  "salary": {
+   "min": 1500000,
+   "max": 1600000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 16
+  },
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Backend"
+   ],
+   "summary": "Backend engineer working in Gurgaon, India.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916911677",
+  "source": "Adzuna",
+  "company": "symphonize solutions",
+  "title": "Full stack Developer",
+  "location": "Hyderabad, Telangana",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916911677?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:45:55Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1200000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 12.000000000000002
+  },
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "RazorUI",
+    "FluentUI",
+    "React",
+    "NextJs",
+    "TypeScript",
+    "C#",
+    ".NET Core",
+    "ASP.net",
+    "CI/CD",
+    "SQL Server",
+    "Powershell"
+   ],
+   "summary": "Full‑stack developer using .NET and JavaScript technologies.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916908888",
+  "source": "Adzuna",
+  "company": "Preludesys India Pvt Ltd",
+  "title": "PowerApps Developer",
+  "location": "Chennai, Tamil Nadu",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916908888?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:45:30Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1800000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 18
+  },
+  "enriched": {
+   "id": "3",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Power Apps",
+    "Canvas Apps",
+    "Model Apps",
+    "Portal Apps"
+   ],
+   "summary": "PowerApps developer creating and maintaining canvas, model, and portal applications.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916864563",
+  "source": "Adzuna",
+  "company": "UFO Moviez",
+  "title": "Software Engineer",
+  "location": "Pune, Maharashtra",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916864563?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:37:00Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    ".NET",
+    "WinForms",
+    "Web API",
+    "Angular",
+    "SQL Server",
+    "Reporting"
+   ],
+   "summary": ".NET full‑stack developer working on Windows and web applications.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916979264",
+  "source": "Adzuna",
+  "company": "Gadiya Info systems India PVT LTD",
+  "title": "wlan developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916979264?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T17:32:29Z",
+  "salary": {
+   "min": 0,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "WLAN",
+    "System Integration",
+    "Hardware",
+    "Software"
+   ],
+   "summary": "WLAN developer responsible for software and hardware integration.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916978796",
+  "source": "Adzuna",
+  "company": "Select Source International",
+  "title": "Software Developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916978796?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T17:31:55Z",
+  "salary": {
+   "min": 0,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 25.000000000000004,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "DSA",
+    "DevOps",
+    "Microservices",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CI/CD",
+    "Unit Testing",
+    "Integration Testing"
+   ],
+   "summary": "Develop Java applications with microservices and DevOps tooling.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916978712",
+  "source": "Adzuna",
+  "company": "EPAM Systems",
+  "title": "Java Developer",
+  "location": "Hyderabad, Telangana",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916978712?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T17:31:51Z",
+  "salary": {
+   "min": 0,
+   "max": 2100000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 21,
+   "max": 21
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "DSA",
+    "NoSQL",
+    "MongoDB",
+    "REST APIs",
+    "JAX-RS",
+    "Reactive Programming",
+    "RxJava",
+    "Unit Testing",
+    "Microservices"
+   ],
+   "summary": "Build Java backend services with microservices and reactive programming.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916924391",
+  "source": "Adzuna",
+  "company": "II-VI incorporated",
+  "title": "NET Developer",
+  "location": "Hyderabad, Telangana",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916924391?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:52:28Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1400000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 14.000000000000002
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    ".NET",
+    "Coding",
+    "Debugging",
+    "Flowcharting",
+    "System Implementation",
+    "Documentation"
+   ],
+   "summary": "Develop and maintain .NET applications.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916924363",
+  "source": "Adzuna",
+  "company": "Sprint",
+  "title": "Microservices Developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916924363?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:52:27Z",
+  "salary": {
+   "min": 1000000,
+   "max": 3000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 30.000000000000004
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "Microservices",
+    "SOAP",
+    "REST APIs",
+    "OOP",
+    "Exception Handling",
+    "Coding Standards",
+    "MySQL",
+    "MSSQL",
+    "Oracle",
+    "Agile"
+   ],
+   "summary": "Design and develop Java microservices applications.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916911679",
+  "source": "Adzuna",
+  "company": "symphonize solutions",
+  "title": "Back end developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916911679?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:45:55Z",
+  "salary": {
+   "min": 1800000,
+   "max": 3500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 18,
+   "max": 35
+  },
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "AWS",
+    "RDS",
+    "EC2",
+    "Lambda",
+    "MERN",
+    "JavaScript",
+    "React",
+    "Git",
+    "DSA"
+   ],
+   "summary": "Back end developer building web applications using AWS and the MERN stack.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "adzuna:5916910289",
+  "source": "Adzuna",
+  "company": "Gammastack",
+  "title": "MERN Stack Developer",
+  "location": "Indore, Madhya Pradesh",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916910289?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:45:41Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "SailsJS",
+    "React",
+    "Angular",
+    "Meteor",
+    "VueJS",
+    "RESTful API",
+    "TDD",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Git",
+    "SVN"
+   ],
+   "summary": "MERN stack developer focused on full‑stack JavaScript technologies and API design.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916978889",
+  "source": "Adzuna",
+  "company": "Aarms Solutions on",
+  "title": "Backend Developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916978889?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T17:31:58Z",
+  "salary": {
+   "min": 0,
+   "max": 1400000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 14.000000000000002,
+   "max": 14.000000000000002
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "React",
+    "JavaScript",
+    "AngularJS",
+    "AWS",
+    "PHP",
+    "MySQL",
+    "JSON",
+    "Flutter",
+    "GitHub"
+   ],
+   "summary": "Backend developer working on deep‑tech products in food and education.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916926897",
+  "source": "Adzuna",
+  "company": "Animaker Inc",
+  "title": "Python Developer",
+  "location": "Chennai, Tamil Nadu",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916926897?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:53:11Z",
+  "salary": {
+   "min": 0,
+   "max": 2600000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 26.000000000000004,
+   "max": 26.000000000000004
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "SQL",
+    "NoSQL",
+    "Web Applications",
+    "Security",
+    "UI Integration"
+   ],
+   "summary": "Python developer building scalable web applications with security and data protection.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916869678",
+  "source": "Adzuna",
+  "company": "truevaluecarsconz",
+  "title": "AI/ML Engineer with Strong Backend Skills",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916869678?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:37:46Z",
+  "salary": {
+   "min": 1200000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "LLMs",
+    "Python",
+    "Backend APIs",
+    "RAG pipelines"
+   ],
+   "summary": "Build AI chatbot engine using LLMs and backend APIs.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916889704",
+  "source": "Adzuna",
+  "company": "Potentiam",
+  "title": "Machine Learning Engineer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916889704?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:41:51Z",
+  "salary": {
+   "min": 2500000,
+   "max": 3500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 25.000000000000004,
+   "max": 35
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "PyTorch",
+    "Pandas",
+    "Airflow",
+    "Docker",
+    "SQL"
+   ],
+   "summary": "Train, evaluate, and deploy machine learning models and data products.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916889608",
+  "source": "Adzuna",
+  "company": "Intellikart Ventures LLP",
+  "title": "Data Scientist- GEN AI",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916889608?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:41:50Z",
+  "salary": {
+   "min": 2000000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 20,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "LLMs",
+    "LangChain",
+    "Prompt Engineering",
+    "RAG"
+   ],
+   "summary": "Develop Agentic AI applications using LLM frameworks and advanced prompt engineering.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:celonis:7986348003",
+  "source": "Greenhouse",
+  "company": "Celonis",
+  "title": "Analytics Engineer — Data Analytics & Transformation (DAT)",
+  "location": "Bangalore, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/celonis/jobs/7986348003?gh_jid=7986348003",
+  "postedAt": "2026-10-08T05:03:28-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "SQL",
+    "Python",
+    "Data engineering",
+    "Data science",
+    "Predictive analytics"
+   ],
+   "summary": "Build data products and models using SQL and Python to support business decision-making.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154402778",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Java Full Stack Developer",
+  "location": "coimbatore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154402778",
+  "postedAt": "2026-10-08T10:39:23.237Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Python",
+    "Angular",
+    "React",
+    "REST APIs",
+    "Microservices",
+    "SQL",
+    "LLMs",
+    "Generative AI"
+   ],
+   "summary": "Develop full‑stack web applications with Java, Python and AI integration.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154402258",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Java Full Stack Developer",
+  "location": "coimbatore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154402258",
+  "postedAt": "2026-10-08T10:37:42.026Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Python",
+    "Angular",
+    "React",
+    "REST APIs",
+    "Microservices",
+    "SQL",
+    "LLMs",
+    "Generative AI"
+   ],
+   "summary": "Develop full‑stack web applications with Java, Python and AI integration.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154347015",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "AI / ML and Generative AI research assistant",
+  "location": "coimbatore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154347015",
+  "postedAt": "2026-10-08T05:44:00.417Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Edge AI",
+    "Embedded systems",
+    "SLMs",
+    "Raspberry Pi",
+    "MCP servers",
+    "Hardware integration",
+    "Splunk",
+    "Power BI",
+    "IEEE research",
+    "Python",
+    "C++",
+    "Machine learning"
+   ],
+   "summary": "Deploys small language models on resource‑constrained hardware and builds hardware integration servers for enterprise GenAI.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000154345349",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "Software Engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000154345349",
+  "postedAt": "2026-10-08T05:21:12.580Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "SQL",
+    "Git",
+    "Eclipse",
+    "Linux",
+    "REST APIs",
+    "MS SQL",
+    "MySQL",
+    "PostgreSQL"
+   ],
+   "summary": "Design, develop, and maintain full stack Java web applications and REST APIs.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000154349278",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Data Engineer",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000154349278",
+  "postedAt": "2026-10-08T05:57:34.789Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "SQL",
+    "Pyspark",
+    "CosmosDB",
+    "Azure Data Factory",
+    "Microsoft Fabric",
+    "Power BI",
+    "T-SQL",
+    "SQL Server",
+    "Visual Studio Reporting Services"
+   ],
+   "summary": "Designs and implements end-to-end ETL/ELT pipelines and data reporting solutions.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:TheNielsenCompany:3743990015948826",
+  "source": "SmartRecruiters",
+  "company": "The Nielsen Company",
+  "title": "Zendesk Developer ( 6 months contractual role)",
+  "location": "Mumbai, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015948826",
+  "postedAt": "2026-10-07T12:38:38.906Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Zendesk",
+    "AI Agents",
+    "Zendesk Copilot",
+    "Zendesk AutoQA",
+    "Zendesk WFM",
+    "Glean",
+    "Gemini",
+    "API Integration"
+   ],
+   "summary": "Leads technical strategy and AI integration for Zendesk-based customer experience platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916893417",
+  "source": "Adzuna",
+  "company": "Amazon India",
+  "title": "Application Engineer",
+  "location": "Chennai, Tamil Nadu",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916893417?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:42:22Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Software support and deployment for Amazon Kindle Reader and Shopping Support Engineering team.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5916815154",
+  "source": "Adzuna",
+  "company": "Tibil Solutions",
+  "title": "Data Science",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5916815154?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-07T16:27:40Z",
+  "salary": {
+   "min": 1200000,
+   "max": 1700000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 17
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "NLP",
+    "SQL",
+    "Statistics"
+   ],
+   "summary": "Data science role focusing on machine learning, deep learning, NLP, and data analysis.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154404398",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Vehicle Diagnostics Engineer",
+  "location": "coimbatore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154404398",
+  "postedAt": "2026-10-08T10:48:57.644Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "CAN",
+    "SAE",
+    "Flexray",
+    "LIN",
+    "KWP",
+    "MOST",
+    "UDS",
+    "CANFD",
+    "DOIP",
+    "Vector",
+    "CANoe",
+    "CANdela",
+    "CANdiva",
+    "ODX",
+    "AUTOSAR",
+    "ADAS",
+    "Python",
+    "C#",
+    "SQL"
+   ],
+   "summary": "Vehicle diagnostics engineer developing and validating diagnostic content and tools for automotive ECUs.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154403518",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Automotive Systems Diagnostic and troubleshooting Engineer",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154403518",
+  "postedAt": "2026-10-08T10:44:20.551Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "OBD-II",
+    "DTC",
+    "diagnostics",
+    "wiring diagram",
+    "DIN standards",
+    "HV",
+    "EV",
+    "Hybrid",
+    "Electric Vehicle"
+   ],
+   "summary": "Automotive systems diagnostic and troubleshooting engineer creating content and diagnosing vehicle systems.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154402028",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "C# & Database Engineer",
+  "location": "coimbatore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154402028",
+  "postedAt": "2026-10-08T10:36:20.130Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "C#",
+    "Python",
+    "SQL",
+    "CAN",
+    "UDS",
+    "Ethernet",
+    "DoIP",
+    "database",
+    "automation",
+    "diagnostics"
+   ],
+   "summary": "C# and database engineer designing automation frameworks and diagnostic tools for automotive diagnostics.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154401078",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Automotive Diagnostic and troubleshooting Engineer for EV & HEV Systems",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154401078",
+  "postedAt": "2026-10-08T10:31:16.861Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Vehicle diagnostic",
+    "Guided troubleshooting",
+    "OBD-II",
+    "DIN standards",
+    "HV & EV Knowledge",
+    "Automotive testing equipment",
+    "Multimeter",
+    "Oscilloscope",
+    "Wiring diagram",
+    "Sensor & actuator knowledge",
+    "Content creation",
+    "Authoring tools"
+   ],
+   "summary": "Diagnose and repair vehicle electrical systems while creating guided troubleshooting content.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154400758",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Automotive Systems Diagnostic and troubleshooting Engineer",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154400758",
+  "postedAt": "2026-10-08T10:29:25.013Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Vehicle diagnostic",
+    "Guided troubleshooting",
+    "OBD-II",
+    "DIN standards",
+    "HV & EV Knowledge",
+    "Automotive testing equipment",
+    "Multimeter",
+    "Oscilloscope",
+    "Wiring diagram",
+    "Sensor & actuator knowledge",
+    "Content creation",
+    "Authoring tools"
+   ],
+   "summary": "Diagnose and repair vehicle electrical systems while creating guided troubleshooting content.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154398529",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Vehicle Diagnostic Engineer",
+  "location": "coimbatore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154398529",
+  "postedAt": "2026-10-08T10:26:23.382Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Vehicle diagnostics",
+    "ECU simulation",
+    "HS+",
+    "HSX",
+    "CANoe",
+    "TestCUBE",
+    "K-line",
+    "CAN",
+    "J1939",
+    "SAE",
+    "TP2.0",
+    "Continuous integration",
+    "Jenkins",
+    "Java",
+    "Python"
+   ],
+   "summary": "Develop and validate vehicle diagnostic content using simulation tools and ECU testing.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154173069",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Automotive Systems Diagnostic and troubleshooting Engineer",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154173069",
+  "postedAt": "2026-10-07T18:26:30.494Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Vehicle diagnostic",
+    "Guided troubleshooting",
+    "OBD-II",
+    "DIN standards",
+    "HV & EV Knowledge",
+    "Automotive testing equipment",
+    "Multimeter",
+    "Oscilloscope",
+    "Wiring diagram",
+    "Sensor & actuator knowledge",
+    "Content creation",
+    "Authoring tools"
+   ],
+   "summary": "Diagnose and repair vehicle electrical systems while creating guided troubleshooting content.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154171949",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Vehicle Diagnostics Engineer",
+  "location": "coimbatore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154171949",
+  "postedAt": "2026-10-07T18:25:23.527Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "CAN",
+    "SAE",
+    "Flexray",
+    "LIN",
+    "KWP",
+    "MOST",
+    "UDS",
+    "CANFD",
+    "DOIP",
+    "Vector",
+    "CANoe",
+    "Python"
+   ],
+   "summary": "Develop and validate vehicle diagnostic content and test ECUs using automotive protocols and tools.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154171608",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "C# & Database Engineer",
+  "location": "coimbatore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154171608",
+  "postedAt": "2026-10-07T18:17:12.818Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "C#",
+    "Python",
+    "SQL",
+    "CAN",
+    "UDS",
+    "Ethernet",
+    "DoIP",
+    "Automation",
+    "Diagnostics"
+   ],
+   "summary": "Lead design and development of automation frameworks and diagnostic tools for automotive systems.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000154392319",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "Information Security Analyst",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000154392319",
+  "postedAt": "2026-10-08T09:46:46.034Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "SIEM",
+    "IDS/IPS",
+    "Endpoint detection",
+    "SOC",
+    "Incident response",
+    "Phishing analysis"
+   ],
+   "summary": "Support SOC incident response, analyze security events, and coordinate remediation.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:TheNielsenCompany:3743990015981376",
+  "source": "SmartRecruiters",
+  "company": "The Nielsen Company",
+  "title": "IT Infrastructure Professional II (L1 Storage & Backup Operations)",
+  "location": "Bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015981376",
+  "postedAt": "2026-10-08T10:39:55.687Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "NetApp ONTAP",
+    "Pure Storage",
+    "Veritas NetBackup",
+    "Cohesity",
+    "ITIL",
+    "ITSM",
+    "ServiceNow",
+    "SAN",
+    "Brocade",
+    "Cisco",
+    "Monitoring tools",
+    "Replication"
+   ],
+   "summary": "Backup and storage operations engineer managing enterprise storage and backup infrastructure.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ }
+]
