@@ -1,0 +1,204 @@
+[
+ {
+  "uid": "adzuna:5922054053",
+  "source": "Adzuna",
+  "company": "Sensiple Software Solutions Pvt Ltd",
+  "title": "Java Developer",
+  "location": "Chennai, Tamil Nadu",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5922054053?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-10T16:41:50Z",
+  "salary": {
+   "min": 1200000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "SQL",
+    "APIs",
+    "Agile",
+    "Scrum"
+   ],
+   "summary": "Design, develop, test, and deploy Java applications while collaborating with cross-functional teams.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5922023832",
+  "source": "Adzuna",
+  "company": "CometChat",
+  "title": "IOS Developer",
+  "location": "Mumbai, Maharashtra",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5922023832?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-10T16:37:34Z",
+  "salary": {
+   "min": 1400000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 14.000000000000002,
+   "max": 20
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "iOS",
+    "Swift",
+    "Objective-C",
+    "React Native",
+    "Chat SDK"
+   ],
+   "summary": "Develop iOS components for a full‑stack conversational platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5921983132",
+  "source": "Adzuna",
+  "company": "Batanaful Ltd",
+  "title": "AI Automation & Integrations Engineer - Ecommerce",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5921983132?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-10T16:26:23Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2200000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 22.000000000000004
+  },
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "AI",
+    "Automation",
+    "APIs",
+    "Python",
+    "Integration",
+    "Ecommerce"
+   ],
+   "summary": "Build AI‑driven automation and integrations to power an ecommerce operation.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "adzuna:5922054215",
+  "source": "Adzuna",
+  "company": "Webvio Technologies Private Limited",
+  "title": "QA Engineer",
+  "location": "Kolkata, West Bengal",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5922054215?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-10T16:41:52Z",
+  "salary": {
+   "min": 3000000,
+   "max": 5000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 30.000000000000004,
+   "max": 50.00000000000001
+  },
+  "enriched": {
+   "id": "3",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Manual Testing",
+    "Automation Testing",
+    "Performance Testing",
+    "Web",
+    "Mobile"
+   ],
+   "summary": "Execute manual, automation, and performance tests for web and mobile applications.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5922022194",
+  "source": "Adzuna",
+  "company": "Tibil Solutions",
+  "title": "Data Science",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5922022194?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-10T16:37:00Z",
+  "salary": {
+   "min": 1200000,
+   "max": 1700000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 17
+  },
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "NLP",
+    "SQL",
+    "Statistics"
+   ],
+   "summary": "Apply machine learning and deep learning techniques to solve data science problems.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ }
+]
