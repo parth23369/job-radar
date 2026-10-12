@@ -1,0 +1,837 @@
+[
+ {
+  "uid": "adzuna:5923277923",
+  "source": "Adzuna",
+  "company": "Kadbit solutions",
+  "title": "NET Developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923277923?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T17:40:36Z",
+  "salary": {
+   "min": 1000000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 20
+  },
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "C#",
+    ".Net",
+    "WPF",
+    "MVVM",
+    "PRISM",
+    "WebAPI",
+    "WCF",
+    "SQL Server",
+    "LINQ",
+    "Entity Framework",
+    "SOA",
+    "Agile"
+   ],
+   "summary": "Develop .NET applications using C# and WPF in a n-tier architecture.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "adzuna:5923258814",
+  "source": "Adzuna",
+  "company": "Spext Labs Inc",
+  "title": "Frontend Developer",
+  "location": "India",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923258814?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T16:59:21Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2700000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 27.000000000000004
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [],
+   "summary": "Build the frontend for a browser‑based media editor.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5923249771",
+  "source": "Adzuna",
+  "company": "Mynd Integrated Solutions",
+  "title": "Backend Developer",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923249771?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T16:52:27Z",
+  "salary": {
+   "min": 1000000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 20
+  },
+  "enriched": {
+   "id": "2",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Django",
+    "API design",
+    "Data modeling",
+    "ML integration"
+   ],
+   "summary": "Backend engineer developing APIs and integrating machine‑learning snippets.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "adzuna:5923246307",
+  "source": "Adzuna",
+  "company": "Alpha Source",
+  "title": "Software Engineers",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923246307?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T16:51:41Z",
+  "salary": {
+   "min": 4000000,
+   "max": 5000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 40,
+   "max": 50.00000000000001
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": 44,
+   "pay_lpa_min": 44,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Web development",
+    "Programming education"
+   ],
+   "summary": "Teach programming by building web applications from scratch.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5923275905",
+  "source": "Adzuna",
+  "company": "Appitsimple infotek Pvt. Ltd.",
+  "title": "Freeswitch Developer (Remote)",
+  "location": "India",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923275905?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T17:39:38Z",
+  "salary": {
+   "min": 0,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Freeswitch",
+    "VoIP",
+    "SIP"
+   ],
+   "summary": "Develop applications using Freeswitch for digital communication products.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5923259384",
+  "source": "Adzuna",
+  "company": "Sanguine Global",
+  "title": "React Native Developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923259384?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T16:59:45Z",
+  "salary": {
+   "min": 1000000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 20
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "React Native",
+    "iOS",
+    "Android",
+    "native APIs",
+    "unit tests",
+    "integration tests",
+    "third-party APIs",
+    "build tools"
+   ],
+   "summary": "Design, build and maintain React Native applications across Android and iOS platforms.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5923258694",
+  "source": "Adzuna",
+  "company": "JumpingMinds",
+  "title": "Backend Developer (Python/Django)",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923258694?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T16:59:16Z",
+  "salary": {
+   "min": 1200000,
+   "max": 2400000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 24.000000000000004
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Django",
+    "backend"
+   ],
+   "summary": "Build backend services for a mental health DeepTech startup.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5923201368",
+  "source": "Adzuna",
+  "company": "Spes Manning Solution",
+  "title": "Scala Developer",
+  "location": "India",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923201368?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T16:42:47Z",
+  "salary": {
+   "min": 1800000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 18,
+   "max": 20
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Scala"
+   ],
+   "summary": "Develop scalable and high-performance applications using Scala for a US-based client.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5923277601",
+  "source": "Adzuna",
+  "company": "Octro Inc",
+  "title": "Data Scientist",
+  "location": "Noida, Ghaziabad",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923277601?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T17:40:28Z",
+  "salary": {
+   "min": 1000000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 20
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "SQL",
+    "Machine learning"
+   ],
+   "summary": "Support product, leadership and marketing teams with insights from large data sets and data mining methods.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5923258946",
+  "source": "Adzuna",
+  "company": "Ezeiatech systems",
+  "title": "Data Scientist",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923258946?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T16:59:28Z",
+  "salary": {
+   "min": 0,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "NLP",
+    "Machine learning"
+   ],
+   "summary": "Develop new features and models, applying state‑of‑the‑art NLP research to build AI solutions.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154990088",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Autosar Base Software Developer",
+  "location": "Bengaluru, Karnataka, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154990088",
+  "postedAt": "2026-10-12T11:11:54.162Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Autosar",
+    "C",
+    "C++",
+    "Embedded",
+    "Real‑time",
+    "Multicore",
+    "CPU optimization",
+    "Build tools",
+    "Continuous integration"
+   ],
+   "summary": "Lead development, configuration and integration of BSW components for automotive ECUs.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000154990594",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer - Backend Developer (C#, .NET)",
+  "location": "Mumbai, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000154990594",
+  "postedAt": "2026-10-12T11:15:44.754Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "C#",
+    ".NET",
+    "ASP.NET",
+    "MVC",
+    "Core",
+    "SQL Server",
+    "Azure",
+    "React",
+    "Angular",
+    "JavaScript",
+    "TypeScript",
+    "Git",
+    "unit testing"
+   ],
+   "summary": "Develop backend services using .NET and Azure for Brandbank tech stack.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:JobsForHumanity:744000154958220",
+  "source": "SmartRecruiters",
+  "company": "Jobs for Humanity",
+  "title": "Online Data Analyst - French (CA)",
+  "location": "Cañada Rosal, SEVILLA, ES",
+  "isRemote": true,
+  "country": "ES",
+  "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000154958220",
+  "postedAt": "2026-10-12T09:02:15.938Z",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "GIS",
+    "Mapping tools",
+    "Search directories",
+    "Evaluation tools"
+   ],
+   "summary": "Conduct structured quality audits on spatial and mapping datasets.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5923233715",
+  "source": "Adzuna",
+  "company": "vithamas technologies",
+  "title": "IoT Engineer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923233715?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T16:48:08Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1200000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 12.000000000000002
+  },
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Embedded systems",
+    "IoT",
+    "C",
+    "Linux",
+    "RTOS",
+    "Device drivers",
+    "Multi-threading",
+    "Firmware debugging",
+    "Mesh network",
+    "Sensor network"
+   ],
+   "summary": "Design and build IoT systems in resource and power constrained environments.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "adzuna:5923233673",
+  "source": "Adzuna",
+  "company": "AGILEAXIS",
+  "title": "Perl Engineer",
+  "location": "Chennai, Tamil Nadu",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923233673?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T16:48:08Z",
+  "salary": {
+   "min": 1000000,
+   "max": 3000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 30.000000000000004
+  },
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": 35,
+   "pay_lpa_min": 10,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Perl",
+    "Java",
+    "Spring Boot",
+    "Microservices",
+    "AWS"
+   ],
+   "summary": "Develop applications using Perl and learn Java, Spring Boot, Microservices, and Cloud.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "adzuna:5923246119",
+  "source": "Adzuna",
+  "company": "Jubilant HR Consultants",
+  "title": "Data Science",
+  "location": "Mumbai, Maharashtra",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5923246119?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-11T16:51:36Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Data science",
+    "Machine learning",
+    "Predictive modeling",
+    "Automation",
+    "Optimization"
+   ],
+   "summary": "Provide insights and build ML models for business solutions.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "lever:shyftlabs:90048195-149e-4267-9e01-fccc38d2ec23",
+  "source": "Lever",
+  "company": "Shyftlabs",
+  "title": "WMS Engineer",
+  "location": "Noida, Uttar Pradesh / Noida, Uttar Pradesh",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.lever.co/shyftlabs/90048195-149e-4267-9e01-fccc38d2ec23",
+  "applyUrl": "https://jobs.lever.co/shyftlabs/90048195-149e-4267-9e01-fccc38d2ec23/apply",
+  "postedAt": "2026-10-12T04:11:15.926Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Manhattan WMOS",
+    "Warehouse Management",
+    "SCPP",
+    "Active",
+    "Labor Management",
+    "Yard Management",
+    "Slotting",
+    "Material Handling Equipment",
+    "Robotics",
+    "UNIX",
+    "Linux"
+   ],
+   "summary": "Support and implement Manhattan WMOS applications for warehouse management.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154990583",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Automotive Diagnostic and troubleshooting Engineer for EV & HEV Systems - BAN",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154990583",
+  "postedAt": "2026-10-12T11:15:36.029Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "OBD-II",
+    "multimeter",
+    "oscilloscope",
+    "diagnostic tools",
+    "automotive electrical wiring",
+    "DTC",
+    "automotive testing"
+   ],
+   "summary": "Diagnoses and troubleshoots automotive electrical, electronic, and mechanical systems for EV & HEV vehicles.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154989438",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Model Based Development Engineer",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154989438",
+  "postedAt": "2026-10-12T11:06:43.801Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "MATLAB",
+    "Simulink",
+    "thermal management",
+    "BEV",
+    "HEV",
+    "powertrain simulation",
+    "SiL",
+    "Python",
+    "vehicle energy flow",
+    "control software"
+   ],
+   "summary": "Develops and validates vehicle energy flow models and thermal management strategies in a SiL environment.",
+   "tech_role": true,
+   "yoe_min": 1
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154985628",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Test Engineer -MBD/MiL/SiL",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154985628",
+  "postedAt": "2026-10-12T10:47:47.770Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "MATLAB",
+    "Simulink",
+    "TargetLink",
+    "TPT",
+    "Polyspace",
+    "MIL",
+    "SIL",
+    "PIL",
+    "embedded C",
+    "code generation"
+   ],
+   "summary": "Implements, verifies, and validates engine and ATS control software components using MATLAB/Simulink and TargetLink.",
+   "tech_role": true,
+   "yoe_min": 1
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154983622",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "HiL Test Engineer",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154983622",
+  "postedAt": "2026-10-12T10:44:23.527Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "HiL",
+    "dSpace",
+    "CANape",
+    "CANoe",
+    "MATLAB",
+    "Simulink",
+    "CAN",
+    "LIN",
+    "Ethernet",
+    "UDS",
+    "Python",
+    "C"
+   ],
+   "summary": "Performs Hardware-in-the-Loop testing and scripting for automotive ECUs, focusing on communication protocols and diagnostics.",
+   "tech_role": true,
+   "yoe_min": 1
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000154927698",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Test Engineer -MBD/MiL/SiL",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154927698",
+  "postedAt": "2026-10-12T06:26:50.165Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "MATLAB",
+    "Simulink",
+    "TargetLink",
+    "TPT",
+    "Polyspace",
+    "MIL",
+    "SIL",
+    "PIL",
+    "embedded C",
+    "code generation"
+   ],
+   "summary": "Implements, verifies, and validates engine and ATS control software components using MATLAB/Simulink and TargetLink.",
+   "tech_role": true,
+   "yoe_min": 1
+  }
+ }
+]
