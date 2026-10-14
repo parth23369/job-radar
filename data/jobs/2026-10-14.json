@@ -1,0 +1,1055 @@
+[
+ {
+  "uid": "adzuna:5925676238",
+  "source": "Adzuna",
+  "company": "RS sIgnatoure solutions Pvt Ltd",
+  "title": "Backend Engineer",
+  "location": "Mumbai, Maharashtra",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925676238?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T16:59:46Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2700000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 27.000000000000004
+  },
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Backend Development",
+    "Performance Benchmarking",
+    "Documentation",
+    "On-call Support",
+    "Best Practices"
+   ],
+   "summary": "Design and develop backend components and support customer issues for a platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5925676170",
+  "source": "Adzuna",
+  "company": "Udaan.com",
+  "title": "Software Developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925676170?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T16:59:40Z",
+  "salary": {
+   "min": 2000000,
+   "max": 5000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 20,
+   "max": 50.00000000000001
+  },
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Engineer role focused on product impact and technical excellence at a product company.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5925675415",
+  "source": "Adzuna",
+  "company": "Yulu Bikes",
+  "title": "Software Developer Engineer 2",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925675415?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T16:59:20Z",
+  "salary": {
+   "min": 1000000,
+   "max": 3000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 30.000000000000004
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "JavaScript",
+    "Node.js",
+    "SailsJS",
+    "Express",
+    "Asynchronous Programming",
+    "Front-end Technologies",
+    "User Authentication",
+    "Authorization"
+   ],
+   "summary": "Develop web and mobile applications with JavaScript and Node.js.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5925674554",
+  "source": "Adzuna",
+  "company": "Meatigocom",
+  "title": "Fullstack Developer",
+  "location": "Delhi, India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925674554?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T16:59:01Z",
+  "salary": {
+   "min": 0,
+   "max": 1000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 10
+  },
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "React",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Webpack",
+    "Enzyme",
+    "Redux",
+    "Flux",
+    "Mocha",
+    "Jest",
+    "Browser Debugging"
+   ],
+   "summary": "Fullstack development focused on React.js and front-end performance.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "adzuna:5925670704",
+  "source": "Adzuna",
+  "company": "Toplyne",
+  "title": "UI Developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925670704?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T16:57:13Z",
+  "salary": {
+   "min": 1000000,
+   "max": 4000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 40
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "UI developer for a global SaaS product focused on revenue team analytics.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5925657719",
+  "source": "Adzuna",
+  "company": "VAYUZ Technologies",
+  "title": "Dot Net Developer",
+  "location": "Ahmedabad, Gujarat",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925657719?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T16:48:33Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "2",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    ".NET Core",
+    "C#",
+    "ASP.NET",
+    "SQL",
+    "HTML",
+    "CSS",
+    "JavaScript"
+   ],
+   "summary": "Dot Net developer with 2 years of experience in .NET framework and web technologies.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "adzuna:5925676274",
+  "source": "Adzuna",
+  "company": "Yulu Bikes",
+  "title": "Backend Developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925676274?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T16:59:51Z",
+  "salary": {
+   "min": 1200000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "SailsJS",
+    "async programming",
+    "authentication",
+    "mobile applications",
+    "web applications"
+   ],
+   "summary": "Backend developer focused on web and mobile applications using JavaScript and Node.js.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5925631707",
+  "source": "Adzuna",
+  "company": "Augusta Hitech Soft Solution",
+  "title": "Full Stack Engineer (Node.js & React.js)",
+  "location": "Chennai, Tamil Nadu",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925631707?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T16:37:58Z",
+  "salary": {
+   "min": 1400000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 14.000000000000002,
+   "max": 20
+  },
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Node.js",
+    "React",
+    "Next.js",
+    "RESTful APIs",
+    "AWS",
+    "GCP"
+   ],
+   "summary": "Full stack engineer designing and maintaining scalable web applications with Node.js and React.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5925682160",
+  "source": "Adzuna",
+  "company": "Accord Manpower Services",
+  "title": "Data engineer - Machine learning",
+  "location": "Delhi, India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925682160?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T17:03:10Z",
+  "salary": {
+   "min": 1200000,
+   "max": 3400000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 34
+  },
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Big Data",
+    "Neural Networks",
+    "Reinforcement Learning",
+    "Machine Learning Systems",
+    "Statistical Analysis",
+    "ML Libraries"
+   ],
+   "summary": "Data engineer focused on machine learning system design and experimentation.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5925676284",
+  "source": "Adzuna",
+  "company": "Econolytics",
+  "title": "Data Scientist",
+  "location": "Noida, Ghaziabad",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925676284?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T16:59:53Z",
+  "salary": {
+   "min": 1800000,
+   "max": 2400000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 18,
+   "max": 24.000000000000004
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Data Science",
+    "Modeling",
+    "DSA",
+    "Visualization",
+    "Data Mining"
+   ],
+   "summary": "Data scientist building scalable analytics and machine learning solutions.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5925630159",
+  "source": "Adzuna",
+  "company": "Batanaful Ltd",
+  "title": "AI Automation & Integrations Engineer - Ecommerce",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925630159?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T16:37:13Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2200000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 22.000000000000004
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "AI",
+    "Automation",
+    "APIs",
+    "Software integrations"
+   ],
+   "summary": "Build an AI‑first e‑commerce operation by automating processes and integrating APIs.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:capco:8276214",
+  "source": "Greenhouse",
+  "company": "Capco",
+  "title": "C# Dot Net Developer",
+  "location": "India - Mumbai",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/capco/jobs/8276214",
+  "postedAt": "2026-10-13T07:53:14-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "C#",
+    ".NET Core",
+    "SQL",
+    "OOP",
+    "Web API",
+    "WCF",
+    "NHibernate",
+    "LINQ",
+    "Microservice Architecture",
+    "Angular",
+    "JQuery",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Agile",
+    "Scrum",
+    "TDD",
+    "Jenkins",
+    "Sonar"
+   ],
+   "summary": "Develop and maintain C# .NET applications for banking and financial services clients.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155427788",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Frontend Engineer – Cloud Web Applications (Automotive SDV Platform)",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155427788",
+  "postedAt": "2026-10-14T07:28:45.766Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "React",
+    "Next.js",
+    "Angular",
+    "Vue",
+    "JavaScript",
+    "TypeScript",
+    "HTML5",
+    "CSS3",
+    "REST APIs",
+    "Microservices",
+    "AWS",
+    "API Gateway",
+    "Cognito",
+    "OAuth2",
+    "OIDC",
+    "WebSockets",
+    "CI/CD",
+    "S3",
+    "CloudFront"
+   ],
+   "summary": "Design and develop responsive cloud‑based web UIs for an automotive SDV platform.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:SmithsGroup2:744000155409219",
+  "source": "SmartRecruiters",
+  "company": "Smiths Group",
+  "title": "Software Engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000155409219",
+  "postedAt": "2026-10-14T03:21:16.468Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Angular",
+    "Java",
+    "Spring Boot",
+    "Python",
+    "Go",
+    "Docker",
+    "Kubernetes",
+    "Cloud platforms"
+   ],
+   "summary": "Deliver scalable, secure, and maintainable software using modern architectural patterns.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:SmithsGroup2:744000155409179",
+  "source": "SmartRecruiters",
+  "company": "Smiths Group",
+  "title": "Software Engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000155409179",
+  "postedAt": "2026-10-14T03:20:49.299Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Angular",
+    "Java",
+    "Spring Boot",
+    "Python",
+    "Go",
+    "Docker",
+    "Kubernetes",
+    "Cloud Platforms"
+   ],
+   "summary": "Delivers scalable, secure, and maintainable software using modern architectural patterns and DevOps practices.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:SmithsGroup2:744000155301769",
+  "source": "SmartRecruiters",
+  "company": "Smiths Group",
+  "title": "Software Test Engineer  (Fixed Term Contract - 9 months)",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000155301769",
+  "postedAt": "2026-10-13T15:33:52.384Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "JUnit",
+    "JaCoCo",
+    "Karma",
+    "Jasmine",
+    "Protractor",
+    "TestRail",
+    "CI/CD"
+   ],
+   "summary": "Owns QA and test automation practices across the team's software delivery.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:Wabtec:3743990016085016",
+  "source": "SmartRecruiters",
+  "company": "Wabtec",
+  "title": "Cyber Security Engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016085016",
+  "postedAt": "2026-10-13T15:53:39.338Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Drives cybersecurity excellence within Enterprise Information Security.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000155410944",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Machine Learning Engineer",
+  "location": "Vadodara, GJ, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000155410944",
+  "postedAt": "2026-10-14T04:17:16.128Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Sklearn",
+    "PyTorch",
+    "TensorFlow",
+    "Spark NLP",
+    "Hugging Face",
+    "NLTK",
+    "LangChain",
+    "AutoGen",
+    "CrewAI",
+    "GitHub",
+    "CI/CD",
+    "MLOps",
+    "Azure Cloud"
+   ],
+   "summary": "Designs, develops, and fine‑tunes machine learning and generative AI models.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000155360258",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Backend Engineer with Python, PHP along with web scraping",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000155360258",
+  "postedAt": "2026-10-13T20:42:55.060Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "PHP",
+    "PostgreSQL",
+    "Scrapy",
+    "BeautifulSoup",
+    "LXML",
+    "Requests",
+    "Browser Automation",
+    "RESTful APIs",
+    "CodeIgniter"
+   ],
+   "summary": "Owns scalable backend architectures and web scraping pipelines.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:TheNielsenCompany:3743990016105636",
+  "source": "SmartRecruiters",
+  "company": "The Nielsen Company",
+  "title": "AI / ML Data Scientist I",
+  "location": "Bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/TheNielsenCompany/3743990016105636",
+  "postedAt": "2026-10-14T05:33:20.074Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Machine learning",
+    "Data engineering",
+    "Cloud",
+    "SQL",
+    "Statistical modeling",
+    "Data pipelines",
+    "Production ML",
+    "Model deployment",
+    "Feature engineering",
+    "Bias reduction",
+    "Automation"
+   ],
+   "summary": "Build and production‑deploy AI models and data pipelines for media audience measurement.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:supabase:6b314e83-6617-49fc-8c73-021ebae9a757",
+  "source": "Ashby",
+  "company": "Supabase",
+  "title": "Platform Engineer - Compute",
+  "location": "Remote, Global",
+  "isRemote": true,
+  "country": null,
+  "url": "https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757",
+  "applyUrl": "https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757/application",
+  "postedAt": "2026-10-13T16:12:05.591+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Go",
+    "TypeScript",
+    "AWS",
+    "Cloud infrastructure",
+    "Distributed systems",
+    "Autoscaling",
+    "Resource optimization",
+    "Observability",
+    "Automation",
+    "Multi‑region",
+    "On‑call",
+    "Incident response"
+   ],
+   "summary": "Design, build, and operate scalable compute services for Supabase projects.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5925682219",
+  "source": "Adzuna",
+  "company": "Poynt",
+  "title": "QA Engineer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5925682219?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-13T17:03:16Z",
+  "salary": {
+   "min": 2000000,
+   "max": 3500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 20,
+   "max": 35
+  },
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Automation testing",
+    "Regression testing",
+    "Test data generation"
+   ],
+   "summary": "Design and implement an automation solution framework for core application testing",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155423158",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Test Engineer",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155423158",
+  "postedAt": "2026-10-14T06:58:42.258Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Vector VT System",
+    "VTestStudio",
+    "CAN",
+    "LIN",
+    "Automotive Ethernet",
+    "UDS",
+    "CAPL",
+    "DOORS",
+    "JIRA",
+    "Git",
+    "HiL"
+   ],
+   "summary": "Automotive verification and validation of component test benches and test execution",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155420099",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Test Engineer -MBD/MiL/SiL",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155420099",
+  "postedAt": "2026-10-14T06:42:59.128Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "MATLAB",
+    "Simulink",
+    "TargetLink",
+    "TPT",
+    "Polyspace",
+    "MIL",
+    "SIL",
+    "PIL",
+    "Embedded Coder"
+   ],
+   "summary": "Implement, verify and validate engine control software using model-based design",
+   "tech_role": true,
+   "yoe_min": 1
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000155191649",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "Product Sustenance Engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000155191649",
+  "postedAt": "2026-10-13T08:10:38.467Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "MSSQL",
+    "T-SQL",
+    "IIS",
+    "ITIL",
+    "Windows Server"
+   ],
+   "summary": "Provides Level 2 support for IT applications, troubleshooting and coordinating with teams.",
+   "tech_role": true,
+   "yoe_min": 1
+  }
+ },
+ {
+  "uid": "smartrecruiters:SmithsGroup2:744000155186469",
+  "source": "SmartRecruiters",
+  "company": "Smiths Group",
+  "title": "Data Lab Assistant ",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000155186469",
+  "postedAt": "2026-10-13T07:50:55.267Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "X-ray",
+    "image acquisition",
+    "data labeling",
+    "data management",
+    "Python",
+    "SQL"
+   ],
+   "summary": "Assists in image data acquisition, labelling, and data management for X-ray systems.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:anthropic:5450479008",
+  "source": "Greenhouse",
+  "company": "Anthropic",
+  "title": "IT Systems Engineer, M&A",
+  "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+  "isRemote": true,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450479008",
+  "postedAt": "2026-10-13T07:53:32-04:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "IT engineering",
+    "automation",
+    "security",
+    "cloud",
+    "Python",
+    "PowerShell",
+    "Azure",
+    "AWS"
+   ],
+   "summary": "Owns IT integration for M&A deals, handling due diligence, planning, and execution.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000155268269",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "Master Data Administrator",
+  "location": "Katowice, Silesian Voivodeship, PL",
+  "isRemote": true,
+  "country": "PL",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000155268269",
+  "postedAt": "2026-10-13T13:41:36.105Z",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Power BI",
+    "Power Query",
+    "Excel",
+    "VBA",
+    "ERP",
+    "AI",
+    "LLMs",
+    "Data governance"
+   ],
+   "summary": "Manages master data records, quality, and automation using AI tools.",
+   "tech_role": true,
+   "yoe_min": 0.5
+  }
+ }
+]
