@@ -1,0 +1,447 @@
+[
+ {
+  "uid": "adzuna:5929225431",
+  "source": "Adzuna",
+  "company": "CloudRaft",
+  "title": "AI Engineer",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5929225431?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-15T22:02:53Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 10
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Kubernetes",
+    "AI agents",
+    "Data pipelines"
+   ],
+   "summary": "Build AI agents, data pipelines, and Kubernetes deployments for enterprise platforms.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5929909903",
+  "source": "Adzuna",
+  "company": "Vrinda International",
+  "title": "AI Quality Assurance Engineer",
+  "location": "Delhi, India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5929909903?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-16T08:48:49Z",
+  "salary": {
+   "min": 1500000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "AI",
+    "Machine learning",
+    "Testing",
+    "Quality assurance"
+   ],
+   "summary": "Design and execute testing strategies for AI and machine learning applications.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5929772178",
+  "source": "Adzuna",
+  "company": "viraaj hr solutions",
+  "title": "Python Developer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5929772178?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-16T07:37:17Z",
+  "salary": {
+   "min": 1000000,
+   "max": 2700000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 27.000000000000004
+  },
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Django",
+    "Flask",
+    "API development",
+    "Backend"
+   ],
+   "summary": "Design, develop, and maintain backend services and APIs using Python.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5929772356",
+  "source": "Adzuna",
+  "company": "Techwise Digital",
+  "title": "Java Full Stack Developer - C2H",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5929772356?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-16T07:37:18Z",
+  "salary": {
+   "min": 1200000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 20
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "Microservices",
+    "Angular",
+    "React",
+    "REST APIs",
+    "MySQL",
+    "Oracle",
+    "PostgreSQL"
+   ],
+   "summary": "Develop backend applications and responsive UIs using Java, Spring Boot, and front-end frameworks.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5929772208",
+  "source": "Adzuna",
+  "company": "SL Business Solutions",
+  "title": "Java Developer",
+  "location": "India",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5929772208?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-16T07:37:17Z",
+  "salary": {
+   "min": 1800000,
+   "max": 2100000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 18,
+   "max": 21
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "Hibernate",
+    "DevOps",
+    "Cloud-native"
+   ],
+   "summary": "Design, develop, and maintain backend Java applications using Spring Boot and Hibernate for cloud-native solutions.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155761606",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Java Full Stack with Java & Angular, Pune",
+  "location": "hosur road bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155761606",
+  "postedAt": "2026-10-15T13:29:39.859Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155761408",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Full Stack with C# & Angular, Pune",
+  "location": "hosur road bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155761408",
+  "postedAt": "2026-10-15T13:27:29.704Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155720828",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Embedded_C++ Developer_EBH",
+  "location": "hosur road bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155720828",
+  "postedAt": "2026-10-15T10:13:19.189Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155720139",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "DevOps Engineer (Application Deployment & Configuration - K8S)",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155720139",
+  "postedAt": "2026-10-15T10:09:39.799Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155709908",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Data Scientist",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155709908",
+  "postedAt": "2026-10-15T09:27:36.069Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155700095",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Research Engineer – Generative AI and Computer Vision",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155700095",
+  "postedAt": "2026-10-15T08:53:05.225Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Generative AI",
+    "Diffusion models",
+    "GANs",
+    "Image-to-image generation",
+    "Synthetic data",
+    "Computer vision",
+    "Deep learning",
+    "CNN",
+    "Transformer",
+    "Segmentation",
+    "Anomaly detection"
+   ],
+   "summary": "Research Engineer focused on generative AI and computer vision for industrial image inspection.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:Sutherland:744000155748135",
+  "source": "SmartRecruiters",
+  "company": "Sutherland",
+  "title": "Full Stack Developer",
+  "location": "Hyderabad, TS, IN",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Sutherland/744000155748135",
+  "postedAt": "2026-10-15T12:34:59.950Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Node.js",
+    "React",
+    "JavaScript",
+    "RESTful APIs",
+    "Jest",
+    "Playwright",
+    "DevSecOps"
+   ],
+   "summary": "Full Stack Developer building cloud‑native web systems with Node.js and React.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NECSWS:744000155707319",
+  "source": "SmartRecruiters",
+  "company": "NECSWS",
+  "title": "Frontend Developer - Angular, React - SSE",
+  "location": "Mumbai, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NECSWS/744000155707319",
+  "postedAt": "2026-10-15T09:16:50.905Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Blazor",
+    ".NET",
+    "Component‑based UI",
+    "Responsive design",
+    "Accessibility"
+   ],
+   "summary": "Front‑end Developer creating modern, responsive user interfaces with .NET/Blazor.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:TheNielsenCompany:3743990016141296",
+  "source": "SmartRecruiters",
+  "company": "The Nielsen Company",
+  "title": "AI / ML Data Scientist II",
+  "location": "Bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/TheNielsenCompany/3743990016141296",
+  "postedAt": "2026-10-15T12:30:29.423Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Machine learning",
+    "Econometrics",
+    "Statistical modeling",
+    "Databricks",
+    "AWS S3",
+    "Data pipelines",
+    "Tableau",
+    "Python"
+   ],
+   "summary": "AI/ML Data Scientist II designing and deploying scalable machine learning systems.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:supabase:ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3",
+  "source": "Ashby",
+  "company": "Supabase",
+  "title": "Site Reliability Engineer",
+  "location": "Remote, Global",
+  "isRemote": true,
+  "country": null,
+  "url": "https://jobs.ashbyhq.com/supabase/ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3",
+  "applyUrl": "https://jobs.ashbyhq.com/supabase/ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3/application",
+  "postedAt": "2026-10-15T09:15:10.373+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "SLO",
+    "SLI",
+    "Incident management",
+    "Observability",
+    "Alerting",
+    "Runbooks",
+    "Capacity planning",
+    "Graceful degradation"
+   ],
+   "summary": "Site Reliability Engineer responsible for reliability practices across Supabase services.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
