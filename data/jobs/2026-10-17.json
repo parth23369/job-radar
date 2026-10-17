@@ -1,0 +1,420 @@
+[
+ {
+  "uid": "adzuna:5930372500",
+  "source": "Adzuna",
+  "company": "TalentOne HR Consulting LLP",
+  "title": "Data Scientist- DSA",
+  "location": "Pune, Maharashtra",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5930372500?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-16T16:26:30Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 20
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "SQL",
+    "Machine learning",
+    "statistical analysis"
+   ],
+   "summary": "Develop machine learning models and insights for business stakeholders.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5931461629",
+  "source": "Adzuna",
+  "company": "Talentien Global Solutions",
+  "title": "Data Scientist",
+  "location": "Coimbatore, Tamil Nadu",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5931461629?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-17T07:37:33Z",
+  "salary": {
+   "min": 3000000,
+   "max": 3500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 30.000000000000004,
+   "max": 35
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "SQL",
+    "big data",
+    "Machine learning",
+    "data visualization"
+   ],
+   "summary": "Analyze large heterogeneous datasets and build ML models for dashboards.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5931146803",
+  "source": "Adzuna",
+  "company": "Vrinda International",
+  "title": "DATA SCIENTIST",
+  "location": "Delhi, India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5931146803?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-17T04:48:22Z",
+  "salary": {
+   "min": 2000000,
+   "max": 2100000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 20,
+   "max": 21
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "SQL",
+    "Machine learning",
+    "Statistical analysis",
+    "Predictive modeling"
+   ],
+   "summary": "Transforms complex data into actionable business insights using advanced statistical analysis and machine learning.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:gitlab:8894531002",
+  "source": "Greenhouse",
+  "company": "GitLab",
+  "title": "Intermediate Backend Engineer - Code Security",
+  "location": "Bangalore, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894531002",
+  "postedAt": "2026-10-16T10:54:01-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Backend",
+    "Security",
+    "Code security",
+    "Dependency analysis",
+    "Vulnerability detection",
+    "Automated remediation"
+   ],
+   "summary": "Helps developers find and fix security issues in code and open-source components.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:capco:8288585",
+  "source": "Greenhouse",
+  "company": "Capco",
+  "title": "Java Backend Developer - Vadodara",
+  "location": "India - Pune",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/capco/jobs/8288585",
+  "postedAt": "2026-10-16T05:24:51-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "Microservices",
+    "REST APIs"
+   ],
+   "summary": "Designs, develops, and maintains scalable backend applications using Java and Spring Boot.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155946889",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Software for HW Evaluation_Embedded_Engg_BSH",
+  "location": "hosur road bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155946889",
+  "postedAt": "2026-10-16T09:06:39.826Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Embedded Linux",
+    "Yocto",
+    "BSP",
+    "U-Boot",
+    "MCU",
+    "Embedded C",
+    "Zephyr",
+    "FreeRTOS",
+    "UART",
+    "SPI",
+    "I2C",
+    "BLE"
+   ],
+   "summary": "Develops embedded software for household appliances, including Linux BSP and MCU firmware.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000156010165",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "BI Developer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000156010165",
+  "postedAt": "2026-10-16T14:09:51.339Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Power BI",
+    "Data modeling",
+    "Automation",
+    "DORA metrics",
+    "Operational reporting"
+   ],
+   "summary": "Design, develop, maintain, and optimize Power BI reporting solutions and related data integration services.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000156008100",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "Data Analyst",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000156008100",
+  "postedAt": "2026-10-16T14:06:32.803Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Power BI",
+    "Data modeling",
+    "Automation",
+    "DORA metrics",
+    "Operational reporting"
+   ],
+   "summary": "Design, develop, maintain, and optimize Power BI reporting solutions and related data integration services.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:Wabtec:3743990016171706",
+  "source": "SmartRecruiters",
+  "company": "Wabtec",
+  "title": "Software Asset Management Analyst",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016171706",
+  "postedAt": "2026-10-16T09:53:54.363Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "ServiceNow",
+    "Flexera",
+    "Coupa",
+    "Software licensing",
+    "Procurement"
+   ],
+   "summary": "Manage end-to-end software asset lifecycle, including licensing, procurement, renewals, and reporting.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:supabase:b65287c7-2071-4bc6-8717-58c090e2a372",
+  "source": "Ashby",
+  "company": "Supabase",
+  "title": "SDK Engineer - Python",
+  "location": "Remote, Global",
+  "isRemote": true,
+  "country": null,
+  "url": "https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372",
+  "applyUrl": "https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372/application",
+  "postedAt": "2026-10-16T15:41:37.459+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Python",
+    "async",
+    "type checker",
+    "API design",
+    "library authoring"
+   ],
+   "summary": "Build and evolve the Python SDK for Supabase, creating sync and async APIs for database, auth, storage, realtime, and functions.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000155960139",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "PLC Automation Engineer-ECF2",
+  "location": "bengaluru, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155960139",
+  "postedAt": "2026-10-16T10:17:20.145Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "no",
+   "skills": [
+    "PLC programming",
+    "TwinCAT",
+    "CODESYS",
+    "Simatic STEP 7",
+    "IEC1131-3",
+    "Structured Text",
+    "EtherCat",
+    "Profibus",
+    "HMI",
+    "Factory Talk View",
+    "MES"
+   ],
+   "summary": "Develop PLC and HMI programs for automation in discrete manufacturing, ensuring safe operation and commissioning.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000155999710",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Engineer (Manual and Automation Testing)",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000155999710",
+  "postedAt": "2026-10-16T13:31:06.892Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Selenium",
+    "Playwright",
+    "Java",
+    "Python",
+    "SQL",
+    "performance testing",
+    "load testing",
+    "data migration",
+    "test automation",
+    "test strategy",
+    "CI/CD"
+   ],
+   "summary": "Quality Engineer responsible for manual and automated testing across functional, regression, performance, and data migration domains.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ }
+]
