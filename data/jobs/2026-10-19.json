@@ -1,0 +1,170 @@
+[
+ {
+  "uid": "greenhouse:databricks:8876613002",
+  "source": "Greenhouse",
+  "company": "Databricks",
+  "title": "Forward Deployed Engineer, FDE (L4)",
+  "location": "Remote - India",
+  "isRemote": true,
+  "country": null,
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002",
+  "postedAt": "2026-10-19T00:41:09-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Data engineering",
+    "AI",
+    "Databricks",
+    "Big data",
+    "ML/AI model integration",
+    "Architecture design"
+   ],
+   "summary": "Lead customer-facing projects to design, build and deploy production-grade data and AI solutions on Databricks.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:emergentlabsinc:4457197009",
+  "source": "Greenhouse",
+  "company": "Emergent Labs ",
+  "title": "Software Development Engineer in Test (SDET)",
+  "location": "Bangalore ",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/emergentlabsinc/jobs/4457197009",
+  "postedAt": "2026-10-19T02:42:26-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Playwright",
+    "API testing",
+    "CI/CD",
+    "Automation frameworks",
+    "Python",
+    "JavaScript"
+   ],
+   "summary": "Build and maintain automated tests for web applications, APIs and end-to-end user journeys using Playwright and related tools.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:MattelInc:744000156234555",
+  "source": "SmartRecruiters",
+  "company": "Mattel",
+  "title": "EAI Software Engineer",
+  "location": "Hyderabad, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/MattelInc/744000156234555",
+  "postedAt": "2026-10-19T06:41:22.469Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Node.js",
+    "TypeScript",
+    "Microservices",
+    "Kafka",
+    "GCP Pub/Sub",
+    "Cloud Run",
+    "Cloud Functions",
+    "GitLab CI/CD"
+   ],
+   "summary": "Develop full-stack integration services and APIs using Node.js, TypeScript and GCP cloud-native tools for enterprise application integration.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000156236639",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Test Engineer (Java, Playwright/ Selenium, API testing)",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000156236639",
+  "postedAt": "2026-10-19T06:46:13.560Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Playwright",
+    "Selenium",
+    "TestNG",
+    "RestAssured",
+    "SQL",
+    "API testing",
+    "CI/CD"
+   ],
+   "summary": "Automated test engineer designing and executing end‑to‑end tests for mission‑critical applications.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000156229723",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "IT Infrastructure System Engineer - Linux",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000156229723",
+  "postedAt": "2026-10-19T05:34:59.347Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Linux",
+    "RHEL",
+    "Ubuntu",
+    "Azure",
+    "Hyper‑V",
+    "Virtualization",
+    "Storage",
+    "Backup",
+    "Automation",
+    "Scripting"
+   ],
+   "summary": "Linux infrastructure engineer for on‑prem and Azure.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
