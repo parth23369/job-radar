@@ -1,0 +1,306 @@
+[
+ {
+  "uid": "adzuna:5939121629",
+  "source": "Adzuna",
+  "company": "JuiceLabs AI",
+  "title": "Software Engineer / AI Engineer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5939121629?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-23T16:38:15Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Build AI-native tools for clients in advertising and ecommerce.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5939121616",
+  "source": "Adzuna",
+  "company": "Transcurators",
+  "title": "Full Stack Developer",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5939121616?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-23T16:38:15Z",
+  "salary": {
+   "min": 1500000,
+   "max": 4000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 40
+  },
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Develop an enterprise‑grade AI platform for credit origination.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:sarvam:db89b576-2456-4cc4-ab0b-c45f8c6c27f0",
+  "source": "Ashby",
+  "company": "Sarvam",
+  "title": "Software Development Engineer - Tejas",
+  "location": "Bengaluru",
+  "isRemote": false,
+  "country": "India",
+  "url": "https://jobs.ashbyhq.com/sarvam/db89b576-2456-4cc4-ab0b-c45f8c6c27f0",
+  "applyUrl": "https://jobs.ashbyhq.com/sarvam/db89b576-2456-4cc4-ab0b-c45f8c6c27f0/application",
+  "postedAt": "2026-10-23T10:19:22.101+00:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Software development engineer working on AI agent platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000157451829",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Site Reliability Engineer",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000157451829",
+  "postedAt": "2026-10-23T11:38:14.257Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Kubernetes",
+    "CI/CD",
+    "Observability",
+    "Distributed tracing",
+    "Monitoring",
+    "Logging",
+    "Alerting",
+    "Kafka",
+    "RabbitMQ",
+    "Infrastructure-as-Code",
+    "Cloud security",
+    "Capacity planning"
+   ],
+   "summary": "Site reliability engineer designing and scaling cloud platforms and production systems.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "lever:veeva:0d88dc70-1023-4ee5-a7fe-67eb0b5cb848",
+  "source": "Lever",
+  "company": "Veeva",
+  "title": "Software Engineer in Test",
+  "location": "Massachusetts - Boston / Massachusetts - Boston",
+  "isRemote": true,
+  "country": "US",
+  "url": "https://jobs.lever.co/veeva/0d88dc70-1023-4ee5-a7fe-67eb0b5cb848",
+  "applyUrl": "https://jobs.lever.co/veeva/0d88dc70-1023-4ee5-a7fe-67eb0b5cb848/apply",
+  "postedAt": "2026-10-22T22:06:49.510Z",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Automation testing",
+    "Functional testing",
+    "SaaS",
+    "Quality Assurance",
+    "Release Engineering"
+   ],
+   "summary": "Software engineer in test ensuring quality of SaaS product through functional and automation testing.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "lever:veeva:fc5343d1-f637-4729-9ecb-aeb963619e01",
+  "source": "Lever",
+  "company": "Veeva",
+  "title": "Software Engineer in Test",
+  "location": "North Carolina - Raleigh / North Carolina - Raleigh",
+  "isRemote": true,
+  "country": "US",
+  "url": "https://jobs.lever.co/veeva/fc5343d1-f637-4729-9ecb-aeb963619e01",
+  "applyUrl": "https://jobs.lever.co/veeva/fc5343d1-f637-4729-9ecb-aeb963619e01/apply",
+  "postedAt": "2026-10-22T22:07:20.210Z",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Automation testing",
+    "Functional testing",
+    "SaaS",
+    "Quality Assurance",
+    "Release Engineering"
+   ],
+   "summary": "Software engineer in test ensuring quality of SaaS product through functional and automation testing.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:InformaGroupPlc:744000157446419",
+  "source": "SmartRecruiters",
+  "company": "Informa Group Plc.",
+  "title": "Quality Engineer ",
+  "location": "Bengaluru, Karnataka, IN",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000157446419",
+  "postedAt": "2026-10-23T11:11:59.518Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Playwright",
+    "TypeScript",
+    "UI testing",
+    "API testing",
+    "Backend testing",
+    "Performance testing",
+    "AI tools"
+   ],
+   "summary": "Build and scale automated test suites and advocate quality early in the SDLC.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:openai:b73e46a6-881a-4413-835a-94b9d5f35d2f",
+  "source": "Ashby",
+  "company": "Openai",
+  "title": "IT Systems Engineer",
+  "location": "San Francisco",
+  "isRemote": true,
+  "country": "United States",
+  "url": "https://jobs.ashbyhq.com/openai/b73e46a6-881a-4413-835a-94b9d5f35d2f",
+  "applyUrl": "https://jobs.ashbyhq.com/openai/b73e46a6-881a-4413-835a-94b9d5f35d2f/application",
+  "postedAt": "2026-10-23T16:28:28.121+00:00",
+  "salary": {
+   "min": 187000,
+   "max": 266000,
+   "currency": "USD",
+   "interval": "year"
+  },
+  "where": "remote",
+  "lpa": {
+   "min": 158.95,
+   "max": 226.1
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Google Workspace",
+    "GCP",
+    "Slack",
+    "Terraform",
+    "IaC",
+    "API integration",
+    "automation"
+   ],
+   "summary": "Engineer enterprise platform operations, building tools and automating workflows.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000157457582",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Regional Network & Peering Engineer",
+  "location": "Timișoara, TM, RO",
+  "isRemote": true,
+  "country": "RO",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157457582",
+  "postedAt": "2026-10-23T12:20:55.851Z",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "routing",
+    "BGP",
+    "CCNP",
+    "IPAM",
+    "PeeringDB",
+    "automation",
+    "IaC"
+   ],
+   "summary": "Manage regional network routing, peering, and infrastructure automation.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ }
+]
