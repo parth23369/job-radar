@@ -1,0 +1,73 @@
+[
+ {
+  "uid": "ashby:supabase:9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+  "source": "Ashby",
+  "company": "Supabase",
+  "title": "Software Engineer - Storage",
+  "location": "Remote, Global",
+  "isRemote": true,
+  "country": null,
+  "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+  "applyUrl": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520/application",
+  "postedAt": "2026-10-24T16:13:28.579+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Object storage",
+    "S3 protocol",
+    "CDN",
+    "Async programming",
+    "Open source",
+    "TUS server",
+    "Go",
+    "Node.js"
+   ],
+   "summary": "Build and scale Supabase's storage service across client libraries, CLI, CDN, and server infrastructure.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:supabase:950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+  "source": "Ashby",
+  "company": "Supabase",
+  "title": "Data API Engineer",
+  "location": "Remote, Global",
+  "isRemote": true,
+  "country": null,
+  "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+  "applyUrl": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0/application",
+  "postedAt": "2026-10-24T16:04:20.762+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Haskell",
+    "C",
+    "PostgreSQL",
+    "SQL",
+    "plpgsql",
+    "Linux",
+    "Open-source",
+    "Async",
+    "Performance tuning"
+   ],
+   "summary": "Data API Engineer improving PostgREST performance and features for Supabase’s multi‑tenant data API.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ }
+]
