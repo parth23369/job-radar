@@ -1,0 +1,263 @@
+[
+ {
+  "uid": "greenhouse:point72:8893940002",
+  "source": "Greenhouse",
+  "company": "Point72 ",
+  "title": "2027 Software Engineer - Campus Graduate Program - IIT BHU",
+  "location": "India, Bengaluru",
+  "isRemote": false,
+  "country": null,
+  "url": "https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002",
+  "postedAt": "2026-10-25T08:09:50-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "C++",
+    "Kubernetes",
+    "AWS",
+    "System design",
+    "Distributed systems",
+    "SQL"
+   ],
+   "summary": "Build and optimize mission‑critical finance applications in a hedge‑fund environment.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:point72:8893936002",
+  "source": "Greenhouse",
+  "company": "Point72 ",
+  "title": "2027 Software Engineer - Campus Graduate Program - IIT Hyderabad",
+  "location": "India, Bengaluru",
+  "isRemote": false,
+  "country": null,
+  "url": "https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002",
+  "postedAt": "2026-10-25T08:10:31-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "C++",
+    "Kubernetes",
+    "AWS",
+    "System design",
+    "Distributed systems",
+    "SQL"
+   ],
+   "summary": "Build and optimize mission‑critical finance applications in a hedge‑fund environment.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:point72:8893939002",
+  "source": "Greenhouse",
+  "company": "Point72 ",
+  "title": "2027 Software Engineer - Campus Graduate Program - IIT Kanpur",
+  "location": "India, Bengaluru",
+  "isRemote": false,
+  "country": null,
+  "url": "https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002",
+  "postedAt": "2026-10-25T08:11:02-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "C++",
+    "Kubernetes",
+    "AWS",
+    "System design",
+    "Distributed systems",
+    "SQL"
+   ],
+   "summary": "Build and optimize mission‑critical finance applications in a hedge‑fund environment.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:point72:8893935002",
+  "source": "Greenhouse",
+  "company": "Point72 ",
+  "title": "2027 Software Engineer - Campus Graduate Program - IIT Madras",
+  "location": "India, Bengaluru",
+  "isRemote": false,
+  "country": null,
+  "url": "https://boards.greenhouse.io/point72/jobs/8893935002?gh_jid=8893935002",
+  "postedAt": "2026-10-25T08:11:24-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "C++",
+    "Kubernetes",
+    "AWS",
+    "System design",
+    "Distributed systems",
+    "SQL"
+   ],
+   "summary": "Build and optimize mission‑critical finance applications in a hedge‑fund environment.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:sarvam:f09b6a35-e2d1-4833-8bc5-2b495991d882",
+  "source": "Ashby",
+  "company": "Sarvam",
+  "title": "Infrastructure Engineer",
+  "location": "Bengaluru",
+  "isRemote": false,
+  "country": "India",
+  "url": "https://jobs.ashbyhq.com/sarvam/f09b6a35-e2d1-4833-8bc5-2b495991d882",
+  "applyUrl": "https://jobs.ashbyhq.com/sarvam/f09b6a35-e2d1-4833-8bc5-2b495991d882/application",
+  "postedAt": "2026-10-26T06:29:28.519+00:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Kubernetes",
+    "Azure",
+    "AWS",
+    "GCP",
+    "Cloudflare",
+    "Observability",
+    "Automation",
+    "Scripting",
+    "AI agents"
+   ],
+   "summary": "Operate and automate the infrastructure supporting Sarvam’s AI products.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:span:98107b13-239e-4c8e-9597-350ab676239e",
+  "source": "Ashby",
+  "company": "Span",
+  "title": "Device - Software Engineer (Functional Safety)",
+  "location": "Bengaluru",
+  "isRemote": false,
+  "country": "India",
+  "url": "https://jobs.ashbyhq.com/span/98107b13-239e-4c8e-9597-350ab676239e",
+  "applyUrl": "https://jobs.ashbyhq.com/span/98107b13-239e-4c8e-9597-350ab676239e/application",
+  "postedAt": "2026-10-26T06:51:47.236+00:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "ARM",
+    "STM32",
+    "CAN",
+    "Functional Safety",
+    "TrustZone",
+    "MPU"
+   ],
+   "summary": "Develop safety‑critical firmware for the Gen3 SPAN Panel to meet UL and IEC certifications.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:ServiceNow:744000157740014",
+  "source": "SmartRecruiters",
+  "company": "ServiceNow",
+  "title": "Software Engineer",
+  "location": "Hyderabad, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157740014",
+  "postedAt": "2026-10-26T08:21:30.416Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "ServiceNow"
+   ],
+   "summary": "Entry‑level software engineer building AI‑native and cloud‑native features on the ServiceNow platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:ServiceNow:744000157722179",
+  "source": "SmartRecruiters",
+  "company": "ServiceNow",
+  "title": "Software Engineer",
+  "location": "Hyderabad, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157722179",
+  "postedAt": "2026-10-26T05:22:39.092Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "ServiceNow"
+   ],
+   "summary": "Entry‑level software engineer building AI‑native and cloud‑native features on the ServiceNow platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
