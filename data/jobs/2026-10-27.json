@@ -1,0 +1,252 @@
+[
+ {
+  "uid": "adzuna:5942152689",
+  "source": "Adzuna",
+  "company": "JuiceLabs AI",
+  "title": "Software Engineer / AI Engineer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5942152689?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-26T16:58:25Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Software Engineer / AI Engineer role focused on building AI-native tools for clients in advertising and ecommerce.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5942152808",
+  "source": "Adzuna",
+  "company": "Skoegle IoT Innovations Pvt Ltd",
+  "title": "Embedded Firmware Engineer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5942152808?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-26T16:58:33Z",
+  "salary": {
+   "min": 1200000,
+   "max": 1500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 12.000000000000002,
+   "max": 15.000000000000002
+  },
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "C",
+    "C++",
+    "Embedded C",
+    "RTOS",
+    "ESP32",
+    "nRF52832",
+    "ATmega328P",
+    "Raspberry Pi",
+    "sensors"
+   ],
+   "summary": "Embedded Firmware Engineer designing, developing, and debugging firmware for IoT and wearable devices.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5942152691",
+  "source": "Adzuna",
+  "company": "Transcurators",
+  "title": "Full Stack Developer",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5942152691?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-26T16:58:25Z",
+  "salary": {
+   "min": 1500000,
+   "max": 4000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 40
+  },
+  "enriched": {
+   "id": "2",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Full Stack Developer building an AI‑powered platform for credit origination.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:capco:8326806",
+  "source": "Greenhouse",
+  "company": "Capco",
+  "title": "Jr Java Full Stack Engineer",
+  "location": "India - Pune",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/capco/jobs/8326806",
+  "postedAt": "2026-10-27T05:16:16-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "REST APIs",
+    "Microservices",
+    "OOP"
+   ],
+   "summary": "Jr Java Full Stack Engineer developing Java 17+ applications and REST APIs for banking clients.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000157850657",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer (python,Django,Pandas/ Polars)",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000157850657",
+  "postedAt": "2026-10-26T15:32:59.753Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Django",
+    "Django REST Framework",
+    "PostgreSQL",
+    "SQL",
+    "Celery",
+    "Redis",
+    "pandas",
+    "Polars",
+    "Google Cloud Platform",
+    "Docker"
+   ],
+   "summary": "Build and maintain production Python/Django services for data processing and API endpoints at NielsenIQ.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:supabase:6f7656fc-9983-48be-bbd3-8b40e0e3027a",
+  "source": "Ashby",
+  "company": "Supabase",
+  "title": "Container Engineer",
+  "location": "Remote, Global",
+  "isRemote": true,
+  "country": null,
+  "url": "https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a",
+  "applyUrl": "https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a/application",
+  "postedAt": "2026-10-26T09:32:58.735+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Kubernetes",
+    "containerd",
+    "OCI",
+    "CNCF",
+    "Argo",
+    "automation",
+    "observability",
+    "scaling",
+    "multi‑cluster",
+    "multi‑region",
+    "secret injection"
+   ],
+   "summary": "Engineer building and maintaining Supabase’s container platform for multi‑tenant services.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:posthog:43dbf072-0fc1-48c9-8c1e-7416db7d4a14",
+  "source": "Ashby",
+  "company": "Posthog",
+  "title": "ClickHouse Operations Engineer ",
+  "location": "Remote",
+  "isRemote": true,
+  "country": "USA",
+  "url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14",
+  "applyUrl": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14/application",
+  "postedAt": "2026-10-26T11:22:11.535+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "ClickHouse",
+    "SQL",
+    "Observability",
+    "Analytics",
+    "Operations"
+   ],
+   "summary": "Operations engineer responsible for managing and optimizing ClickHouse deployments for PostHog’s analytics platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
