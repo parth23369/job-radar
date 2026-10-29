@@ -1,0 +1,217 @@
+[
+ {
+  "uid": "ashby:sarvam:fd9ca9f7-c546-4264-acc6-ee4e58c0e693",
+  "source": "Ashby",
+  "company": "Sarvam",
+  "title": "SDE2 - API Platform",
+  "location": "Bengaluru",
+  "isRemote": false,
+  "country": "India",
+  "url": "https://jobs.ashbyhq.com/sarvam/fd9ca9f7-c546-4264-acc6-ee4e58c0e693",
+  "applyUrl": "https://jobs.ashbyhq.com/sarvam/fd9ca9f7-c546-4264-acc6-ee4e58c0e693/application",
+  "postedAt": "2026-10-29T06:49:35.210+00:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Go",
+    "FastAPI",
+    "OpenAI spec",
+    "SSE",
+    "Routing",
+    "Failover",
+    "Rate limiting",
+    "Observability",
+    "Load testing"
+   ],
+   "summary": "Own core parts of the LLM API platform, building services in Go and Python to ensure reliability and performance.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000158464143",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer (Python AND AI)",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000158464143",
+  "postedAt": "2026-10-29T08:58:59.957Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "FastAPI",
+    "Azure",
+    "AI",
+    "Generative AI",
+    "Database",
+    "APIs",
+    "Microservices"
+   ],
+   "summary": "Software engineer designing and building scalable Python applications with AI/ML and Azure",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:openai:b82699a2-5819-4276-a402-fd88f56f9246",
+  "source": "Ashby",
+  "company": "Openai",
+  "title": "Data Scientist, Cloud Distribution & Growth",
+  "location": "San Francisco / Seattle",
+  "isRemote": true,
+  "country": "United States",
+  "url": "https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246",
+  "applyUrl": "https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246/application",
+  "postedAt": "2026-10-28T19:59:03.385+00:00",
+  "salary": {
+   "min": 347000,
+   "max": 445000,
+   "currency": "USD",
+   "interval": "year"
+  },
+  "where": "remote",
+  "lpa": {
+   "min": 294.95,
+   "max": 378.25
+  },
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Data analysis",
+    "Business intelligence",
+    "Forecasting",
+    "API logs",
+    "Billing",
+    "Customer segmentation",
+    "Growth metrics"
+   ],
+   "summary": "Analyze cloud provider usage to drive growth strategy and forecast demand.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:celonis:7665962003",
+  "source": "Greenhouse",
+  "company": "Celonis",
+  "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+  "location": "Bangalore, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/celonis/jobs/7665962003?gh_jid=7665962003",
+  "postedAt": "2026-10-28T08:06:28-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "intern",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "AI",
+    "Process mining",
+    "Data modeling",
+    "Consulting",
+    "Implementation"
+   ],
+   "summary": "Associate deployment engineer in Celonis graduate program, implementing AI platform solutions.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000158442839",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Automotive Systems Diagnostic and troubleshooting Engineer",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158442839",
+  "postedAt": "2026-10-29T06:17:23.078Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "vehicle diagnostic",
+    "OBD-II",
+    "DIN standards",
+    "HV",
+    "EV",
+    "multimeter",
+    "oscilloscope"
+   ],
+   "summary": "Diagnoses and troubleshoots vehicle electrical systems and creates guided troubleshooting content.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000158437049",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "BMS Hardware Engineer",
+  "location": "Coimbatore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158437049",
+  "postedAt": "2026-10-29T04:43:20.232Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "analog electronics",
+    "digital electronics",
+    "power electronics",
+    "hardware failure analysis",
+    "oscilloscope",
+    "high voltage",
+    "function generator",
+    "LTSpice",
+    "MATLAB",
+    "FMEA",
+    "FMEDA",
+    "ISO 16750"
+   ],
+   "summary": "Designs and tests battery management system hardware components.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ }
+]
