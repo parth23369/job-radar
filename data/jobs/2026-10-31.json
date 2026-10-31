@@ -1,0 +1,138 @@
+[
+ {
+  "uid": "adzuna:5946793969",
+  "source": "Adzuna",
+  "company": "Iungotech",
+  "title": "AI Evaluation Engineer",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5946793969?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-30T17:23:50Z",
+  "salary": {
+   "min": 1000000,
+   "max": 7000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 70
+  },
+  "enriched": {
+   "id": "0",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "LLMs",
+    "AI evaluation",
+    "metrics",
+    "testing pipelines"
+   ],
+   "summary": "Evaluate, test, and improve the quality and performance of large language models and generative AI applications.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000158719244",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Data Engineer (Python, Java, SQL, PL/SQL)",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000158719244",
+  "postedAt": "2026-10-30T11:25:06.966Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "PL/SQL",
+    "data engineering",
+    "platform reliability",
+    "observability"
+   ],
+   "summary": "Design, develop, and support scalable data and application solutions for CPS platforms.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:supabase:fb0b563a-e541-43fd-8555-9eb6473aaa11",
+  "source": "Ashby",
+  "company": "Supabase",
+  "title": "Software Engineer - AI Tooling Infrastructure",
+  "location": "Remote, Global",
+  "isRemote": true,
+  "country": null,
+  "url": "https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11",
+  "applyUrl": "https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11/application",
+  "postedAt": "2026-10-31T08:47:34.051+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "backend services",
+    "AI tooling",
+    "infrastructure",
+    "scaling",
+    "observability",
+    "SRE"
+   ],
+   "summary": "Build and operate production backend services behind Supabase’s AI products.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:wpp:8890904002",
+  "source": "Greenhouse",
+  "company": "WPP",
+  "title": "QA Engineer",
+  "location": "India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/wpp/jobs/8890904002",
+  "postedAt": "2026-10-30T10:35:23-04:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Playwright",
+    "automation testing",
+    "QA",
+    "test design"
+   ],
+   "summary": "Design and maintain automated test coverage for WPP’s software products using Playwright.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
