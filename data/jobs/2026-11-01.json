@@ -1,0 +1,360 @@
+[
+ {
+  "uid": "adzuna:5947943103",
+  "source": "Adzuna",
+  "company": "TalentOne HR Consulting LLP",
+  "title": "Data Scientist- DSA",
+  "location": "Pune, Maharashtra",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5947943103?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-31T17:23:16Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 20
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Machine learning",
+    "Statistical Analysis",
+    "Data Analysis"
+   ],
+   "summary": "Data Scientist role developing ML models and analyzing data for business insights.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:PAR Technology:0cc4109c-dfe0-44f9-9191-d2ed723a409c",
+  "source": "Ashby",
+  "company": "PAR Technology",
+  "title": "Software Engineer II-Golang",
+  "location": "Gurugram / Jaipur",
+  "isRemote": true,
+  "country": "India",
+  "url": "https://jobs.ashbyhq.com/PAR%20Technology/0cc4109c-dfe0-44f9-9191-d2ed723a409c",
+  "applyUrl": "https://jobs.ashbyhq.com/PAR%20Technology/0cc4109c-dfe0-44f9-9191-d2ed723a409c/application",
+  "postedAt": "2026-10-30T13:12:21.538+00:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Go",
+    "Microservices",
+    "Enterprise Systems",
+    "Database",
+    "Scalable Systems"
+   ],
+   "summary": "Software Engineer focusing on GoLang for enterprise-grade scalable systems.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:LinkedIn3:744000158542329",
+  "source": "SmartRecruiters",
+  "company": "LinkedIn",
+  "title": "Software Engineer, Salesforce",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158542329",
+  "postedAt": "2026-10-29T14:52:42.392Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Salesforce",
+    "Apex",
+    "Lightning Web Components",
+    "REST APIs",
+    "SOAP",
+    "CI/CD",
+    "Agile"
+   ],
+   "summary": "Salesforce Software Engineer building scalable, secure solutions on the Salesforce platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:Ubisoft2:744000158789335",
+  "source": "SmartRecruiters",
+  "company": "Ubisoft",
+  "title": "R&D Engineer (GEN AI/ ML)",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158789335",
+  "postedAt": "2026-10-30T15:57:34.520Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "GenAI",
+    "Vision-Language Models",
+    "Machine learning",
+    "Data Pipelines",
+    "Experimentation",
+    "API",
+    "CLI"
+   ],
+   "summary": "R&D Engineer prototyping GenAI/VLM solutions for game testing and quality control.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:harvey:7e75a1a6-1884-4772-86c2-2ea4d6a7a08d",
+  "source": "Ashby",
+  "company": "Harvey",
+  "title": "Research Engineer / Scientist, Data & Evals",
+  "location": "San Francisco",
+  "isRemote": true,
+  "country": "USA",
+  "url": "https://jobs.ashbyhq.com/harvey/7e75a1a6-1884-4772-86c2-2ea4d6a7a08d",
+  "applyUrl": "https://jobs.ashbyhq.com/harvey/7e75a1a6-1884-4772-86c2-2ea4d6a7a08d/application",
+  "postedAt": "2026-10-29T22:43:44.919+00:00",
+  "salary": {
+   "min": 230000,
+   "max": 340000,
+   "currency": "USD",
+   "interval": "year"
+  },
+  "where": "remote",
+  "lpa": {
+   "min": 195.5,
+   "max": 289
+  },
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Data Pipelines",
+    "Evaluation Design",
+    "Synthetic Data",
+    "Machine learning",
+    "AI",
+    "Python"
+   ],
+   "summary": "Research Engineer building data and evaluation systems for post-training AI models.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:harvey:6c87b165-99ad-484e-b34b-1cf2ab0c92d5",
+  "source": "Ashby",
+  "company": "Harvey",
+  "title": "Research Engineer / Scientist, Data & Evals",
+  "location": "Remote",
+  "isRemote": true,
+  "country": "United States",
+  "url": "https://jobs.ashbyhq.com/harvey/6c87b165-99ad-484e-b34b-1cf2ab0c92d5",
+  "applyUrl": "https://jobs.ashbyhq.com/harvey/6c87b165-99ad-484e-b34b-1cf2ab0c92d5/application",
+  "postedAt": "2026-10-30T19:42:39.242+00:00",
+  "salary": {
+   "min": 230000,
+   "max": 340000,
+   "currency": "USD",
+   "interval": "year"
+  },
+  "where": "remote",
+  "lpa": {
+   "min": 195.5,
+   "max": 289
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "PyTorch",
+    "Data engineering",
+    "Synthetic data",
+    "Evaluation design",
+    "Distributed systems",
+    "Kubernetes",
+    "AWS",
+    "LLMs",
+    "System design",
+    "SQL",
+    "Reward design"
+   ],
+   "summary": "Build data and measurement systems for post‑training, benchmarking, and agent capability efforts.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:harvey:9b63e15d-2d43-4c4a-94be-75908e942ea7",
+  "source": "Ashby",
+  "company": "Harvey",
+  "title": "Research Engineer, Infrastructure",
+  "location": "Remote",
+  "isRemote": true,
+  "country": "United States",
+  "url": "https://jobs.ashbyhq.com/harvey/9b63e15d-2d43-4c4a-94be-75908e942ea7",
+  "applyUrl": "https://jobs.ashbyhq.com/harvey/9b63e15d-2d43-4c4a-94be-75908e942ea7/application",
+  "postedAt": "2026-10-30T19:43:59.008+00:00",
+  "salary": {
+   "min": 230000,
+   "max": 340000,
+   "currency": "USD",
+   "interval": "year"
+  },
+  "where": "remote",
+  "lpa": {
+   "min": 195.5,
+   "max": 289
+  },
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "PyTorch",
+    "Distributed training",
+    "RL rollout",
+    "Infrastructure",
+    "Kubernetes",
+    "AWS",
+    "LLMs",
+    "System design",
+    "Data engineering",
+    "Evaluation",
+    "Open‑weight models"
+   ],
+   "summary": "Build infrastructure for adapting and improving open‑weight models for legal work.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:harvey:30df72cf-ee68-4194-864e-47745ca8b6e0",
+  "source": "Ashby",
+  "company": "Harvey",
+  "title": "Research Engineer / Scientist, Reinforcement Learning",
+  "location": "Remote",
+  "isRemote": true,
+  "country": "United States",
+  "url": "https://jobs.ashbyhq.com/harvey/30df72cf-ee68-4194-864e-47745ca8b6e0",
+  "applyUrl": "https://jobs.ashbyhq.com/harvey/30df72cf-ee68-4194-864e-47745ca8b6e0/application",
+  "postedAt": "2026-10-30T19:46:43.629+00:00",
+  "salary": {
+   "min": 230000,
+   "max": 340000,
+   "currency": "USD",
+   "interval": "year"
+  },
+  "where": "remote",
+  "lpa": {
+   "min": 195.5,
+   "max": 289
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "PyTorch",
+    "RL",
+    "Reward design",
+    "Open‑weight models",
+    "LLMs",
+    "System design",
+    "Evaluation",
+    "Distributed systems",
+    "Kubernetes",
+    "AWS",
+    "Data engineering"
+   ],
+   "summary": "Own post‑training recipe across SFT and RL, including reward design for legal tasks.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5947942321",
+  "source": "Adzuna",
+  "company": "Talview",
+  "title": "Data Science Engineer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5947942321?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-10-31T17:22:30Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "SQL",
+    "Statistics",
+    "Machine learning"
+   ],
+   "summary": "Data science engineer building AI‑powered hiring and assessment solutions.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ }
+]
