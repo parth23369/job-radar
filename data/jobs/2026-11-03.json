@@ -1,0 +1,253 @@
+[
+ {
+  "uid": "greenhouse:gitlab:8905402002",
+  "source": "Greenhouse",
+  "company": "GitLab",
+  "title": "Intermediate Backend Engineer, Authorization",
+  "location": "Bangalore, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8905402002",
+  "postedAt": "2026-11-03T05:30:08-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Ruby",
+    "Rails"
+   ],
+   "summary": "Build and maintain the authorization system for GitLab.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "greenhouse:capco:8348883",
+  "source": "Greenhouse",
+  "company": "Capco",
+  "title": "Big Data Engineer- Scala",
+  "location": "India - Pune",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/capco/jobs/8348883",
+  "postedAt": "2026-11-03T01:06:03-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Scala",
+    "Apache Spark",
+    "Big Data",
+    "ETL"
+   ],
+   "summary": "Design, develop, and optimize scalable big data solutions.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000159295609",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "Full Stack Developer with DevOps experience",
+  "location": "bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159295609",
+  "postedAt": "2026-11-03T05:02:30.605Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null
+ },
+ {
+  "uid": "smartrecruiters:ServiceNow:744000159295769",
+  "source": "SmartRecruiters",
+  "company": "ServiceNow",
+  "title": "Software Engineer",
+  "location": "Hyderabad, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159295769",
+  "postedAt": "2026-11-03T05:03:52.182Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000159342751",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "QA Automation Engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000159342751",
+  "postedAt": "2026-11-03T10:09:50.243Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000159356893",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer (C#, .Net, Angular, SQL)",
+  "location": "Mumbai, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000159356893",
+  "postedAt": "2026-11-03T11:07:09.255Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000159309809",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000159309809",
+  "postedAt": "2026-11-03T07:37:05.185Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null
+ },
+ {
+  "uid": "greenhouse:toast:8302709",
+  "source": "Greenhouse",
+  "company": "Toast",
+  "title": "QA Engineer II",
+  "location": "Bengaluru, Karnataka ,India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8302709",
+  "postedAt": "2026-11-01T14:59:07-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "QA",
+    "Manual testing",
+    "Automation testing",
+    "Debugging"
+   ],
+   "summary": "QA Engineer II responsible for testing and quality assurance of Toast’s restaurant‑management software.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:BoschGroup:744000159314013",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "IN_RBAI_Cost Engineer Electronics_IN",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159314013",
+  "postedAt": "2026-11-03T08:14:22.708Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Electronics components manufacturing",
+    "PCB manufacturing",
+    "Cost engineering"
+   ],
+   "summary": "Establish and optimize cost models for electronics product development and sourcing.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000159344599",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "QA Test Engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000159344599",
+  "postedAt": "2026-11-03T10:09:00.887Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Functional testing",
+    "Test automation",
+    "CI/CD",
+    "Test frameworks",
+    "Defect management"
+   ],
+   "summary": "Ensure quality and reliability of the eLIMS-BPT system through testing and automation.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:Sutherland:744000159312049",
+  "source": "SmartRecruiters",
+  "company": "Sutherland",
+  "title": "OS Test engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Sutherland/744000159312049",
+  "postedAt": "2026-11-03T07:53:03.786Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Powershell",
+    "OS testing",
+    "QA documentation",
+    "Agile methodologies",
+    "Defect handling",
+    "API testing",
+    "Automation testing"
+   ],
+   "summary": "OS Test engineer responsible for manual and automated OS component and security testing, documentation, and defect handling.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ }
+]
