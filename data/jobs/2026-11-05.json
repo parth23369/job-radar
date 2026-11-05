@@ -1,0 +1,163 @@
+[
+ {
+  "uid": "greenhouse:gitlab:8890971002",
+  "source": "Greenhouse",
+  "company": "GitLab",
+  "title": "Intermediate Backend Engineer , Security Factory",
+  "location": "Bangalore, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8890971002",
+  "postedAt": "2026-11-04T14:15:55-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Backend",
+    "Security",
+    "Static analysis",
+    "Call graph",
+    "DevSecOps"
+   ],
+   "summary": "Builds and extends the static analysis engine for GitLab's Security Factory to help developers find and fix code security issues.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:pramaana-labs:07e93dce-ec07-4ce8-b4b1-e166f3b9c2bc",
+  "source": "Ashby",
+  "company": "Pramaana-labs",
+  "title": "Forward Deployed Engineer",
+  "location": "Palo Alto / Bengaluru",
+  "isRemote": false,
+  "country": "United States",
+  "url": "https://jobs.ashbyhq.com/pramaana-labs/07e93dce-ec07-4ce8-b4b1-e166f3b9c2bc",
+  "applyUrl": "https://jobs.ashbyhq.com/pramaana-labs/07e93dce-ec07-4ce8-b4b1-e166f3b9c2bc/application",
+  "postedAt": "2026-11-04T19:51:49.341+00:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "AI",
+    "Formal methods",
+    "Lean 4",
+    "Symbolic reasoning",
+    "Verification"
+   ],
+   "summary": "Bridges applied research and software engineering to prototype verifiable AI workflows and tools.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000159841125",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer - Fullstack (Java and Angular)",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000159841125",
+  "postedAt": "2026-11-05T11:27:41.707Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "Angular",
+    "PL/SQL",
+    "PostgreSQL",
+    "Snowflake",
+    "DevOps",
+    "CI/CD",
+    "GitHub",
+    "RESTful APIs",
+    "Microservices"
+   ],
+   "summary": "Builds full‑stack applications using Java Spring Boot and Angular, managing databases and CI/CD pipelines.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:Ubisoft2:744000159824028",
+  "source": "SmartRecruiters",
+  "company": "Ubisoft",
+  "title": "R&D Engineer (C++)",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000159824028",
+  "postedAt": "2026-11-05T09:50:22.516Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "C++",
+    "Automation",
+    "Testing",
+    "QA/QC",
+    "Source-code automation",
+    "Game engines",
+    "System design"
+   ],
+   "summary": "Designs and owns automation components for scalable automated testing in game development.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:superapp:8930209002",
+  "source": "Greenhouse",
+  "company": "SuperApp",
+  "title": "Solution Engineer (Early to Mid Level)",
+  "location": "Bengaluru, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/superapp/jobs/8930209002",
+  "postedAt": "2026-11-04T11:29:20-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Python",
+    "Prompt engineering"
+   ],
+   "summary": "Solution engineer turning customer pain points into AI solutions with hands‑on Python development.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
