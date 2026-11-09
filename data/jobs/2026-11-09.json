@@ -1,0 +1,67 @@
+[
+ {
+  "uid": "smartrecruiters:LiftedanUpworkCompany:3743990016724306",
+  "source": "SmartRecruiters",
+  "company": "Lifted, an Upwork Company™",
+  "title": "Copy of Software Developer – AI Coding Assistant Evaluation",
+  "location": "Hyderabad, TS, IN",
+  "isRemote": true,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990016724306",
+  "postedAt": "2026-11-09T11:21:30.114Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "yes",
+   "skills": [
+    "Git",
+    "Terminal",
+    "AI coding assistant",
+    "Software development"
+   ],
+   "summary": "Evaluate AI‑generated code on a personal software project.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:SmithsGroup2:744000160568422",
+  "source": "SmartRecruiters",
+  "company": "Smiths Group",
+  "title": "Infrastructure Engineer",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000160568422",
+  "postedAt": "2026-11-09T09:53:18.658Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Windows Server",
+    "Active Directory",
+    "Microsoft Entra ID",
+    "Azure",
+    "Azure Stack HCI",
+    "SolarWinds",
+    "Serv-U",
+    "Monitoring",
+    "MFT"
+   ],
+   "summary": "Maintain and enhance Microsoft‑based infrastructure and cloud services.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
