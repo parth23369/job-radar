@@ -1,0 +1,422 @@
+[
+ {
+  "uid": "adzuna:5964003069",
+  "source": "Adzuna",
+  "company": "eDataBae",
+  "title": "Software Engineer – AI Coding Task Expert",
+  "location": "India",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5964003069?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-11-13T09:34:02Z",
+  "salary": {
+   "min": 2080000,
+   "max": 3120000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 20.8,
+   "max": 31.200000000000003
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "Git",
+    "CI/CD",
+    "Unit testing",
+    "Bug fixing",
+    "Performance optimization"
+   ],
+   "summary": "Build realistic coding problems and reference solutions for AI model evaluation.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5964002939",
+  "source": "Adzuna",
+  "company": "TheJobsMap",
+  "title": "Developer Relations Engineer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5964002939?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-11-13T09:34:01Z",
+  "salary": {
+   "min": 1500000,
+   "max": 3500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 35
+  },
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "SDK",
+    "Documentation",
+    "API",
+    "JavaScript",
+    "Python"
+   ],
+   "summary": "Bridge product and developers by creating demos, SDKs, starter kits, and documentation.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "greenhouse:rubrik:8377184",
+  "source": "Greenhouse",
+  "company": "Rubrik Job Board",
+  "title": " Software Engineer - UI Test",
+  "location": "Bangalore, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://www.rubrik.com/company/careers/departments/job.8377184?gh_jid=8377184",
+  "postedAt": "2026-11-12T13:07:31-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Playwright",
+    "Python",
+    "CI/CD",
+    "Automation",
+    "UI testing"
+   ],
+   "summary": "Test and automate UI workflows across Rubrik products using AI‑native tools.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:ServiceNow:744000161432929",
+  "source": "SmartRecruiters",
+  "company": "ServiceNow",
+  "title": "Software Engineer",
+  "location": "Bangalore, Karnataka, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161432929",
+  "postedAt": "2026-11-13T07:12:53.400Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring",
+    "Spring Boot",
+    "Microservices",
+    "Distributed systems",
+    "React",
+    "PostgreSQL",
+    "REST APIs",
+    "Unit testing"
+   ],
+   "summary": "Build and maintain backend microservices and frontend interfaces for ServiceNow platform.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:InformaGroupPlc:744000161309459",
+  "source": "SmartRecruiters",
+  "company": "Informa Group Plc.",
+  "title": "AI/ML Research Engineer",
+  "location": "Bengaluru, Karnataka, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000161309459",
+  "postedAt": "2026-11-12T14:08:54.402Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "NLP",
+    "Machine learning",
+    "Knowledge Graphs",
+    "Ontologies",
+    "Semantic Retrieval",
+    "Python",
+    "SQL"
+   ],
+   "summary": "Research engineer developing NLP and knowledge graph prototypes for scholarly content.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000161456159",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Associate Software Test Engineer (Playwright, Typescript/ Javascript)",
+  "location": "Pune, MH, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161456159",
+  "postedAt": "2026-11-13T10:17:35.686Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Playwright",
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "SQL",
+    "PostgreSQL",
+    "Oracle",
+    "REST API testing"
+   ],
+   "summary": "Test automation engineer creating Playwright-based UI and API regression suites.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000161434899",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer (Oracle PL/SQL, UNIX Shell Scripting, Python)",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161434899",
+  "postedAt": "2026-11-13T07:38:54.217Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Oracle PL/SQL",
+    "Python",
+    "Java",
+    "Unix Shell",
+    "AI",
+    "Generative AI",
+    "Azure",
+    "SQL"
+   ],
+   "summary": "Software engineer building data processing engines with PL/SQL, Python, and AI solutions.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000161430579",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Data Engineer",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161430579",
+  "postedAt": "2026-11-13T06:32:28.817Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Spark",
+    "Scala",
+    "Databricks",
+    "PySpark",
+    "Azure",
+    "GitHub",
+    "AI",
+    "DevSecOps",
+    "SQL"
+   ],
+   "summary": "Data engineer developing ingestion services on Spark/Databricks for a unified data ecosystem.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000161328287",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer (Python AND Angular)",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161328287",
+  "postedAt": "2026-11-12T15:30:24.544Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Angular",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Python",
+    "REST APIs",
+    "SQL",
+    "Git"
+   ],
+   "summary": "Software engineer building web applications with Angular front‑end and Python back‑end.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "smartrecruiters:RenesasElectronics:744000161454149",
+  "source": "SmartRecruiters",
+  "company": "Renesas Electronics",
+  "title": "Software Development Engineer -Backend(Node Js)",
+  "location": "Bangalore, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000161454149",
+  "postedAt": "2026-11-13T10:05:03.941Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Node.js",
+    "JavaScript",
+    "PostgreSQL",
+    "SQL",
+    "Git",
+    "AWS",
+    "Gitlab",
+    "GitHub",
+    "Backend"
+   ],
+   "summary": "Backend software engineer developing high‑quality, secure, and performant applications.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "greenhouse:mongodb:8383063",
+  "source": "Greenhouse",
+  "company": "MongoDB",
+  "title": "Technical Services Engineer",
+  "location": "Bengaluru; Gurugram",
+  "isRemote": false,
+  "country": null,
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8383063",
+  "postedAt": "2026-11-12T10:18:56-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "SQL",
+    "NoSQL",
+    "MongoDB",
+    "Atlas",
+    "Cloud Manager",
+    "Diagnostics",
+    "Logs",
+    "Metrics",
+    "Traces",
+    "Query plans",
+    "Performance tuning"
+   ],
+   "summary": "Diagnoses and resolves complex MongoDB ecosystem problems for customers.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "greenhouse:celonis:8203121003",
+  "source": "Greenhouse",
+  "company": "Celonis",
+  "title": "Associate Technology Consultant - Galaxy Graduate Program",
+  "location": "Bangalore, India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/celonis/jobs/8203121003?gh_jid=8203121003",
+  "postedAt": "2026-11-13T06:20:46-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Process mining",
+    "Enterprise AI",
+    "Consulting",
+    "Implementation",
+    "Transformation"
+   ],
+   "summary": "Associate Technology Consultant in Celonis' graduate program focusing on AI-driven process optimization.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
