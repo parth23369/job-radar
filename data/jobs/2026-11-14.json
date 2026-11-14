@@ -1,0 +1,72 @@
+[
+ {
+  "uid": "smartrecruiters:BoschGroup:744000161475293",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "OpenText Workflow Backend Developer – Operations Orchestration (DevOps Team)",
+  "location": "Bengaluru Urban, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161475293",
+  "postedAt": "2026-11-13T12:40:31.268Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Python",
+    "PowerShell",
+    "SQL",
+    "REST APIs",
+    "Git",
+    "OO Studio"
+   ],
+   "summary": "Full‑stack backend developer building and maintaining OpenText Operations Orchestration flows and integrations.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000161468444",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Engineer, Python and AI/ML Development",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161468444",
+  "postedAt": "2026-11-13T11:52:39.322Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "FastAPI",
+    "Flask",
+    "LLMs",
+    "LangChain",
+    "LlamaIndex",
+    "SQL",
+    "MLflow",
+    "pytest"
+   ],
+   "summary": "Software engineer building and deploying Python ML services and LLM‑based AI components.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
