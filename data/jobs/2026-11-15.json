@@ -1,0 +1,38 @@
+[
+ {
+  "uid": "greenhouse:capco:8354687",
+  "source": "Greenhouse",
+  "company": "Capco",
+  "title": "Full Stack Developer",
+  "location": "India - Bengaluru",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/capco/jobs/8354687",
+  "postedAt": "2026-11-15T04:18:44-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "Angular",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "RESTful APIs",
+    "Oracle",
+    "PostgreSQL",
+    "MongoDB"
+   ],
+   "summary": "Full Stack Developer designing and implementing secure applications for financial services.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
