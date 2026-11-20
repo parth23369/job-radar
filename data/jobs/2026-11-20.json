@@ -1,0 +1,522 @@
+[
+ {
+  "uid": "adzuna:5972375351",
+  "source": "Adzuna",
+  "company": "Zealant Consulting Group",
+  "title": "Software Development Engineer - Golang",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5972375351?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-11-20T09:35:43Z",
+  "salary": {
+   "min": 3000000,
+   "max": 3500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 30.000000000000004,
+   "max": 35
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Go"
+   ],
+   "summary": "Develop and maintain backend services in Golang for a fast‑paced research platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5972375236",
+  "source": "Adzuna",
+  "company": "viraaj hr solutions",
+  "title": "ML Engineer",
+  "location": "Hyderabad, Telangana",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5972375236?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-11-20T09:35:42Z",
+  "salary": {
+   "min": 1800000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 18,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "4",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "MLOps",
+    "cloud-native",
+    "recommendation pipelines",
+    "real-time decision engines"
+   ],
+   "summary": "Build and deploy scalable ML systems for real‑time decision making and recommendations.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5972375243",
+  "source": "Adzuna",
+  "company": "Hexaconcepts  Pvt. Ltd.",
+  "title": "Software Development Engineer",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5972375243?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-11-20T09:35:42Z",
+  "salary": {
+   "min": 3000000,
+   "max": 4800000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 30.000000000000004,
+   "max": 48.00000000000001
+  },
+  "enriched": {
+   "id": "0",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [],
+   "summary": "Develop software for an automotive data platform that collects and analyzes vehicle data.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5972375151",
+  "source": "Adzuna",
+  "company": "Zorba Consulting India",
+  "title": "Big Data Engineer",
+  "location": "Hyderabad, Telangana",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5972375151?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-11-20T09:35:41Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1900000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 19
+  },
+  "enriched": {
+   "id": "1",
+   "level": "unknown",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Python",
+    "Scala",
+    "Apache Spark"
+   ],
+   "summary": "Design and maintain scalable big data applications and distributed data processing solutions.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5972002814",
+  "source": "Adzuna",
+  "company": "Arminus",
+  "title": "Consultant | .NET | Mumbai | Engineering | Platform Development & Integration",
+  "location": "Bazargate, Mumbai",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5972002814?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-11-20T00:23:52Z",
+  "salary": {
+   "min": 1500000,
+   "max": 2500000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 15.000000000000002,
+   "max": 25.000000000000004
+  },
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    ".NET Core",
+    "MS SQL",
+    "Web Application Development",
+    "Application Security"
+   ],
+   "summary": "Develop .NET Core web applications for the banking domain, resolving production issues and ensuring security.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "adzuna:5971607869",
+  "source": "Adzuna",
+  "company": "Magna Hire Workspace",
+  "title": "Data Scientist",
+  "location": "Bangalore, Karnataka",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5971607869?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-11-19T18:35:19Z",
+  "salary": {
+   "min": 1000000,
+   "max": 3000000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 30.000000000000004
+  },
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "GenAI",
+    "LLMs",
+    "Speech STT",
+    "Speech TTS",
+    "Multimodal AI",
+    "Model Design",
+    "Experimentation",
+    "Production Deployment"
+   ],
+   "summary": "Build and scale GenAI-powered voice and conversational AI systems for enterprise use cases.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "greenhouse:point72:8948017002",
+  "source": "Greenhouse",
+  "company": "Point72 ",
+  "title": "Software Engineer, Tax Technology",
+  "location": "India",
+  "isRemote": false,
+  "country": null,
+  "url": "https://boards.greenhouse.io/point72/jobs/8948017002?gh_jid=8948017002",
+  "postedAt": "2026-11-20T04:09:28-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Software Development",
+    "CI/CD",
+    "DevOps",
+    "Cloud",
+    "Agile",
+    "Test-Driven Development",
+    "Architecture"
+   ],
+   "summary": "Build and maintain tax technology applications and cloud-native solutions for tax systems and analytics.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "lever:zeta:f827a249-2537-4f7f-aade-25b829fc13f2",
+  "source": "Lever",
+  "company": "Zeta",
+  "title": "Site Reliability Engineer- II",
+  "location": "Bangalore / Bangalore",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.lever.co/zeta/f827a249-2537-4f7f-aade-25b829fc13f2",
+  "applyUrl": "https://jobs.lever.co/zeta/f827a249-2537-4f7f-aade-25b829fc13f2/apply",
+  "postedAt": "2026-11-18T13:09:24.922Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "4",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Site Reliability Engineering",
+    "Cloud Native",
+    "Kubernetes",
+    "CI/CD",
+    "Automation",
+    "Monitoring",
+    "AWS",
+    "Docker"
+   ],
+   "summary": "Ensure reliability and scalability of banking platforms through monitoring, automation, and incident response.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "lever:pditechnologies:272e82ea-0b9b-4629-92f0-eaa2666f85ab",
+  "source": "Lever",
+  "company": "Pditechnologies",
+  "title": "Software Engineer II",
+  "location": "Chennai / Chennai / Hyderabad",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.lever.co/pditechnologies/272e82ea-0b9b-4629-92f0-eaa2666f85ab",
+  "applyUrl": "https://jobs.lever.co/pditechnologies/272e82ea-0b9b-4629-92f0-eaa2666f85ab/apply",
+  "postedAt": "2026-11-20T09:55:36.768Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "0",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "React",
+    "TypeScript",
+    "ASP.NET Core",
+    "SQL Server",
+    "PostgreSQL",
+    "xUnit",
+    "Vitest",
+    "Playwright",
+    "Claude Code",
+    "GitHub Copilot",
+    "Cursor"
+   ],
+   "summary": "Design, build and ship full-stack features using React, TypeScript, ASP.NET Core and databases while integrating AI-driven development tools.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "smartrecruiters:ServiceNow:744000162697254",
+  "source": "SmartRecruiters",
+  "company": "ServiceNow",
+  "title": "Software Engineer",
+  "location": "Hyderabad, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162697254",
+  "postedAt": "2026-11-20T10:13:46.658Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "JavaScript",
+    "AI-native",
+    "Generative AI",
+    "Agentic AI",
+    "Web",
+    "UI",
+    "React",
+    "Angular",
+    "Node.js"
+   ],
+   "summary": "Build AI-native features for Finance and Procurement workflows using Java and modern web technologies.",
+   "tech_role": true,
+   "yoe_min": 2
+  }
+ },
+ {
+  "uid": "smartrecruiters:Eurofins:744000162663169",
+  "source": "SmartRecruiters",
+  "company": "Eurofins",
+  "title": "Software Engineer",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/Eurofins/744000162663169",
+  "postedAt": "2026-11-20T06:42:07.807Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "3",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Angular",
+    ".NET Core",
+    "Azure",
+    "Entity Framework Core",
+    "Microsoft Stack",
+    "N-tier architecture",
+    "SQL Server"
+   ],
+   "summary": "Develop and support high-performance web applications using Microsoft Stack and Angular.",
+   "tech_role": true,
+   "yoe_min": 3
+  }
+ },
+ {
+  "uid": "ashby:supabase:2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+  "source": "Ashby",
+  "company": "Supabase",
+  "title": "Software Engineer - Postgres Tooling",
+  "location": "Remote, Global",
+  "isRemote": true,
+  "country": null,
+  "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+  "applyUrl": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281/application",
+  "postedAt": "2026-11-19T17:48:28.617+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "PostgreSQL",
+    "SQL",
+    "compiler",
+    "async",
+    "GitHub",
+    "testing"
+   ],
+   "summary": "Co‑maintain and lead the development of pg‑delta, a schema diff and migration engine for Postgres.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "adzuna:5972375152",
+  "source": "Adzuna",
+  "company": "Zorba Consulting India",
+  "title": "Big Data Applications Engineer",
+  "location": "Hyderabad, Telangana",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://www.adzuna.in/details/5972375152?utm_medium=api&utm_source=34681f6b",
+  "postedAt": "2026-11-20T09:35:41Z",
+  "salary": {
+   "min": 1000000,
+   "max": 1800000,
+   "currency": "INR",
+   "interval": "year",
+   "predicted": false
+  },
+  "where": "india",
+  "lpa": {
+   "min": 10,
+   "max": 18
+  },
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Java",
+    "Scala",
+    "Python",
+    "Apache Spark",
+    "Hadoop",
+    "AWS",
+    "REST APIs",
+    "Microservices",
+    "batch workloads",
+    "distributed applications"
+   ],
+   "summary": "Develop and maintain scalable big data applications using Java/Scala/Python on Spark, Hadoop and AWS.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ },
+ {
+  "uid": "ashby:supabase:f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+  "source": "Ashby",
+  "company": "Supabase",
+  "title": "Multigres Deployment Engineer",
+  "location": "Remote, Global",
+  "isRemote": true,
+  "country": null,
+  "url": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+  "applyUrl": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b/application",
+  "postedAt": "2026-11-19T21:07:22.705+00:00",
+  "salary": null,
+  "where": "remote",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "Go",
+    "Kubernetes",
+    "EKS",
+    "GKE",
+    "AKS",
+    "CSI drivers",
+    "Persistent volumes",
+    "Cross‑cloud networking",
+    "Monitoring",
+    "Alerting"
+   ],
+   "summary": "Own deployment and operational infrastructure for Supabase’s distributed Postgres platform.",
+   "tech_role": true,
+   "yoe_min": null
+  }
+ }
+]
