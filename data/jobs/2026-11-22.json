@@ -1,0 +1,34 @@
+[
+ {
+  "uid": "smartrecruiters:BoschGroup:744000163090169",
+  "source": "SmartRecruiters",
+  "company": "Bosch Group",
+  "title": "IN_RBAI_Software Automation expert_IN",
+  "location": "Bengaluru, KA, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163090169",
+  "postedAt": "2026-11-22T07:33:06.429Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "entry",
+   "pay_lpa_max": null,
+   "pay_lpa_min": null,
+   "remote_open_to_india": "unclear",
+   "skills": [
+    "RPA",
+    "Low-code",
+    "OutSystems",
+    "AI Studio",
+    "GenAI",
+    "Hyperautomation"
+   ],
+   "summary": "Administer and develop RPA bots and low‑code solutions, integrating AI/GenAI for logistics automation.",
+   "tech_role": true,
+   "yoe_min": 1
+  }
+ }
+]
