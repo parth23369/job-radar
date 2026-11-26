@@ -1,0 +1,60 @@
+[
+ {
+  "uid": "greenhouse:capco:8419107",
+  "source": "Greenhouse",
+  "company": "Capco",
+  "title": "Data Engineer with Databricks ",
+  "location": "India - Bengaluru; India - Chennai ; India - Gurugram; India - Hyderabad; India - Mumbai; India - Pune",
+  "isRemote": false,
+  "country": null,
+  "url": "https://job-boards.greenhouse.io/capco/jobs/8419107",
+  "postedAt": "2026-11-26T08:16:45-05:00",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "1",
+   "level": "mid",
+   "yoe_min": null,
+   "pay_lpa_min": null,
+   "pay_lpa_max": null,
+   "skills": [
+    "Python",
+    "Databricks",
+    "cloud-based data engineering"
+   ],
+   "remote_open_to_india": "unclear",
+   "tech_role": true,
+   "summary": "Data Engineer designing and maintaining scalable data pipelines and analytics solutions."
+  }
+ },
+ {
+  "uid": "smartrecruiters:NielsenIQ:744000163879151",
+  "source": "SmartRecruiters",
+  "company": "NielsenIQ",
+  "title": "Software Test Engineer",
+  "location": "Chennai, TN, IN",
+  "isRemote": false,
+  "country": "IN",
+  "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000163879151",
+  "postedAt": "2026-11-26T14:10:25.548Z",
+  "salary": null,
+  "where": "india",
+  "lpa": null,
+  "enriched": {
+   "id": "2",
+   "level": "mid",
+   "yoe_min": null,
+   "pay_lpa_min": null,
+   "pay_lpa_max": null,
+   "skills": [
+    "backend validation",
+    "automation",
+    "testing"
+   ],
+   "remote_open_to_india": "unclear",
+   "tech_role": true,
+   "summary": "Software Test Engineer responsible for quality assurance and testing of retail measurement system."
+  }
+ }
+]
