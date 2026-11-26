@@ -1,0 +1,13 @@
+# Keeps secrets, local output and history out of the image.
+.env
+.env.*
+.git
+.github
+.vscode
+node_modules
+out
+test
+data/seen.json
+data/jobs
+*.md
+*.zip

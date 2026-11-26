@@ -1,0 +1,19 @@
+{
+  "name": "job-radar",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "daily": "node src/daily.mjs",
+    "weekly": "node src/weekly.mjs",
+    "daily:dry": "node src/daily.mjs --dry-run",
+    "weekly:dry": "node src/weekly.mjs --dry-run",
+    "check-boards": "node scripts/check-boards.mjs",
+    "discover-boards": "node scripts/discover-boards.mjs",
+    "test": "node --test test/filters.test.mjs test/dedup.test.mjs test/validate.test.mjs test/enrich.test.mjs test/health.test.mjs",
+    "test:mock": "node test/mock-run.mjs"
+  },
+  "dependencies": {
+    "nodemailer": "^10.0.10"
+  }
+}
