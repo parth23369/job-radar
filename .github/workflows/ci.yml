@@ -1,0 +1,44 @@
+name: CI
+
+# Runs on every push and pull request. job-radar.yml also calls it before each run.
+on:
+  push:
+  pull_request:
+  workflow_call:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - name: Unit tests
+        run: npm test
+      - name: Offline end-to-end run
+        run: npm run test:mock
+
+      # The Docker steps run only on push and pull request,
+      # so that a Docker Hub outage can't stop the daily mail.
+      - name: Build the image
+        if: ${{ github.event_name == 'push' || github.event_name == 'pull_request' }}
+        run: docker compose build
+      - name: Check that it runs as a non-root user
+        if: ${{ github.event_name == 'push' || github.event_name == 'pull_request' }}
+        run: test "$(docker run --rm job-radar id -un)" = "node"
+      - name: Smoke test through Compose (no keys)
+        if: ${{ github.event_name == 'push' || github.event_name == 'pull_request' }}
+        run: |
+          rm -rf out
+          mkdir out
+          sudo chown 1000:1000 out
+          docker compose run --rm job-radar node src/weekly.mjs --dry-run
+          test -s out/weekly.html
