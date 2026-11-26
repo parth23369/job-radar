@@ -1,0 +1,13 @@
+# docker compose run --rm job-radar                          dry run: writes out/daily.html
+# docker compose run --rm job-radar node src/daily.mjs       real run: sends the mail and updates data/
+services:
+  job-radar:
+    build: .
+    image: job-radar
+    init: true
+    env_file:
+      - path: .env          # your secrets; never committed, never copied into the image
+        required: false
+    volumes:
+      - ./data:/app/data    # history of what was already sent
+      - ./out:/app/out      # dry-run mails
